@@ -96,19 +96,19 @@
       ],
       [
         "Resolute Fight",
-        "Provides protective shields to allied tanks at the start of battle."
+        "Provides protective shields to allied damage-dealing (DPS) heroes at the start of battle."
       ],
       [
         "Tenacity",
         "Improves combat stats after unlocking."
       ]
     ],
-    "synergy": "Prefer Warrior squads.",
+    "synergy": "Frontline tank who helps protect allied DPS heroes with Resolute Fight. Pair with another frontline tank and backline damage dealers; favor Warrior faction synergy where practical.",
     "gear": "Tank: prioritize armor and boots.",
-    "investment": "Focus on tank durability and weapon milestones.",
+    "investment": "Suggested skill focus: Bloodshed Defense → Resolute Fight → Deadly Pierce → Battle Will. Prioritize team shielding, especially protection for allied DPS heroes, then self-healing. Crimson Greatsword is available; Awakening is not currently available.",
     "images": [],
     "exclusive_weapon": "Crimson Greatsword",
-    "verification": "Core skill descriptions restored from earlier conversation; original screenshots not rechecked.",
+    "verification": "Resolute Fight's DPS-targeted shield corrected directly by user; remaining skill mechanics from earlier draft require screenshot recheck.",
     "rarity": "UR",
     "awakening": "Not currently available",
     "review_status": "Original screenshots not independently rechecked"
