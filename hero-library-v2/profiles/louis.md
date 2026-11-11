@@ -17,7 +17,12 @@ Frontline Ranger tank with ally protection, damage mitigation, self-healing, and
 - **Tenacity — Fixed Support Skill:** Fixed combat bonuses, not upgraded.
 
 ## Recommended skill upgrade priority
-Retain the exact previously approved ranking; not independently recoverable in the accessible checkpoint. Do not guess.
+1. **Cross Whip** — Primary combination of area damage, self-healing and damage reduction.
+2. **Indomitable Spirit** — Improves survivability.
+3. **Force Link** — Protects allied heroes.
+4. **Shackles** — Basic attack damage.
+
+**Tenacity** is fixed and does not require upgrading.
 
 ## Gear priority
 **UR Armor → UR Boots** to strengthen frontline survival.
@@ -27,14 +32,21 @@ Retain the exact previously approved ranking; not independently recoverable in t
 **Backline:** Cynthia + Red Lady + Bell.
 
 ## Exclusive Weapon — Thorn Shackles
-Verified milestone effects:
+Recovered approved milestone effects:
+- **1 star:** DEF bonus.
+- **2 stars:** HP bonus.
+- **3 stars:** ATK bonus.
 - **4 stars:** Improves Shackles damage.
+- **5 stars:** Energy damage resistance.
 - **6 stars:** Extends Indomitable Spirit duration.
-- **8 stars:** Force Link affects an additional target.
+- **7 stars:** Physical damage resistance.
+- **8 stars:** Force Link affects an additional ally.
+- **9 stars:** Increases Louis's damage dealt.
 - **10 stars:** Improves Cross Whip damage reduction.
-Other weapon bonuses at 7 and 9 stars were recorded in the approval discussion; preserve original source details when recovered.
+
+**Key milestones:** 6, 8 and 10 stars.
 
 **Awakening:** Not currently available.
 
 ## Approval provenance
-Approved original profile; user subsequently approved removal of Investment Notes. No Investment Notes section.
+Approved original profile; user subsequently approved removal of Investment Notes. Recovered exact approved priority and weapon milestone categories from earlier approval discussion on 2026-11-11; pending user reconfirmation of this restored version. No Investment Notes section.
