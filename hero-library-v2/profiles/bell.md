@@ -35,3 +35,8 @@ Backline Ranger support who combines healing with offensive buffs for the team's
 
 ## Approval provenance
 User approved after Investment Notes section was removed. No Investment Notes section.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1295.jpeg`](../../IMG_1295.jpeg)  
+**Asset location:** `IMG_1295.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
