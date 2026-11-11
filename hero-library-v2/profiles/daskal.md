@@ -4,7 +4,7 @@
 **Faction:** Warrior
 **Role:** Tank
 **Position:** Frontline
-**Portrait:** Original user-supplied portrait from approval conversation; exact image asset must be saved to V2 before website integration. Never substitute an old or generated portrait.
+**Portrait source received and visually confirmed:** User uploaded `IMG_1289(2).jpeg` on 2026-11-11. It depicts Daskal in dark armor, red glowing eyes, red cape, skull shoulder armor and a large sword. The exact original file has **not yet been committed to the GitHub V2 assets directory**. Preserve its original pixels; never substitute legacy or generated artwork.
 
 ## Character overview
 Daskal is a frontline Warrior Tank focused on protection, damage mitigation, and shielding allies. His exclusive weapon strengthens his protective utility and survival.
