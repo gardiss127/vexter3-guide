@@ -10,13 +10,13 @@
 Daskal is a frontline Warrior Tank focused on protection, damage mitigation, and shielding allies. His exclusive weapon strengthens his protective utility and survival.
 
 ## Skills
-- **Battle Will:** Offensive combat skill; preserve the approved skill's precise qualitative effect from the original screenshots before website publication.
-- **Deadly Pierce:** Combat skill; preserve the approved precise qualitative effect from the original screenshots before website publication.
-- **Bloodshed Defense:** Defensive skill central to Daskal's tanking and protection.
-- **Resolute Fight:** Protective skill that shields DPS allies rather than tanks; preserve this distinction.
+- **Battle Will — Auto Attack:** Single-target Physical slash with his sword.
+- **Deadly Pierce — Active Skill:** Physical attack that restores Daskal's HP based on his ATK.
+- **Bloodshed Defense — Ultimate Skill:** Grants a shield to all allies based on Daskal's maximum DEF.
+- **Resolute Fight — Passive Skill:** Shields DPS allies whose HP falls below half. Exclusive Weapon upgrades extend protection to low-HP Support allies.
 - **Tenacity:** Fixed support skill providing combat stats and cooldown speed; does not require upgrading.
 
-**Source fidelity note:** Skill names, role, shield-target correction and priority are recovered from the approved review. Specific mechanics for Battle Will and Deadly Pierce must be cross-checked with the original approved screenshot review; do not invent them.
+**Source fidelity note:** Skill descriptions and weapon milestones were recovered from the user's earlier explicitly approved review. Original screenshots were not directly re-opened in this recovery pass.
 
 ## Recommended skill upgrade priority
 1. **Bloodshed Defense** — Highest defensive priority.
@@ -34,12 +34,19 @@ Daskal is a frontline Warrior Tank focused on protection, damage mitigation, and
 - **Backline:** Marlena (DPS) + another Warrior DPS + Support
 
 ## Exclusive Weapon — Crimson Greatsword
-Verified weapon milestones from approved profile:
-- **6 stars:** Enhances Support shielding.
-- **8 stars:** Enhances healing.
-- **10 stars:** Improves team shielding.
+Recovered weapon milestones from approved profile:
+- **1–3 stars:** DEF, HP and ATK bonuses.
+- **4 stars:** Improves Battle Will damage.
+- **5 stars:** Energy damage resistance.
+- **6 stars:** Extends Resolute Fight protection to low-HP Support allies.
+- **7 stars:** Physical damage resistance.
+- **8 stars:** Improves healing from Deadly Pierce.
+- **9 stars:** Additional damage improvement.
+- **10 stars:** Strengthens Bloodshed Defense shielding.
+
+**Key milestones:** 6 stars and 10 stars.
 
 **Awakening:** Not currently available.
 
 ## Approval provenance
-User explicitly approved the Daskal V2 profile on 2026-11-11. This is a recovered preservation copy. Original portrait and exact per-skill screenshot language still require attachment/reconciliation. No Investment Notes section. Do not copy legacy Hero Library text or silently alter approved mechanics.
+User explicitly approved the Daskal V2 profile on 2026-11-11. Recovered and expanded from the original approved written review. Portrait asset is tracked separately and is not a blocker for text verification. No Investment Notes section. Do not copy legacy Hero Library text or silently alter approved mechanics.
