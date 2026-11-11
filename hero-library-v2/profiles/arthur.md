@@ -1,6 +1,6 @@
 # Arthur — UR Hero #1
 
-**Status:** APPROVED by user, 2026-11-11
+**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Arthur looks good")
 **Faction:** Warrior
 **Role:** Tank
 **Position:** Frontline
