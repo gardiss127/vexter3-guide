@@ -9,5 +9,9 @@ Confirmed by user on 2026-11-11. Source images are uploaded in the repository ro
 | Annie | `IMG_1299.jpeg` | User confirmed |
 | Billy | `IMG_1300.jpeg` | User confirmed |
 | Nicole | `IMG_1301.jpeg` | User confirmed |
+| Joker | `IMG_1302.jpeg` | User confirmed |
+| Bella | `IMG_1303.jpeg` | User confirmed |
+| Lucius | `IMG_1304.jpeg` | User confirmed |
+| Celia | `IMG_1305.jpeg` | User confirmed |
 
-Remaining uploaded portraits `IMG_1302.jpeg` through `IMG_1305.jpeg` are not yet mapped in this document; do not assign names without user confirmation.
+All nine portraits in this filename sequence have user-confirmed mappings.
