@@ -38,3 +38,8 @@ Shadow is a frontline Ranger Tank who contributes area attacks, enemy defense re
 
 ## Approval provenance
 Recovered from the previously user-approved V2 Shadow review on 2026-11-11. User confirmed no Exclusive Weapon and no Awakening. Do not display variable hero level or ATK values. No Investment Notes section.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1292.jpeg`](../../IMG_1292.jpeg)  
+**Asset location:** `IMG_1292.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
