@@ -66,3 +66,8 @@ Billy is a frontline tank, so defensive equipment takes priority over offensive 
 ## Approval Provenance
 
 User reviewed the complete written profile and explicitly stated: "Billy looks good. Save his complete approved written profile to the fresh-start GitHub branch at hero-library-v2/profiles/billy.md."
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1300.jpeg`](../../IMG_1300.jpeg)  
+**Asset location:** `IMG_1300.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
