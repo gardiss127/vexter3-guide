@@ -1,6 +1,6 @@
 # Cynthia — UR Ranger DPS
 
-**Status:** APPROVED by user; Investment Notes removal subsequently approved, 2026-11-11
+**Status:** APPROVED — user reconfirmed restored written profile on 2026-11-11 ("Looks good"); Investment Notes removed
 **Faction:** Ranger
 **Role:** DPS
 **Position:** Backline
@@ -41,4 +41,4 @@ Ranger damage dealer who builds Moonlight stacks and combines offensive pressure
 **Exclusive Weapon:** None.
 
 ## Approval provenance
-User approved original profile and explicitly approved removal of Investment Notes. Exact skill priority and Awakening effects recovered from earlier approved review and restored on 2026-11-11; pending user reconfirmation of this restoration. No Investment Notes section.
+User approved original profile and explicitly approved removal of Investment Notes. Exact skill priority and Awakening effects recovered from earlier approved review and restored on 2026-11-11; user reconfirmed the restored profile with "Looks good". No Investment Notes section.
