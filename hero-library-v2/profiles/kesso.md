@@ -41,3 +41,8 @@ This composition protects Kesso while allowing him to contribute sustained damag
 - Hunting Skills initially throws two spears, with an additional split shot unlocked through star progression.
 - Wild Survival activates only when Kesso's HP falls below its threshold for the first time in combat.
 - Kesso has no exclusive weapon or awakening, as confirmed.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1313.jpeg`](../../IMG_1313.jpeg)  
+**Asset location:** `IMG_1313.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
