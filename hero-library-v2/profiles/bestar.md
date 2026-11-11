@@ -45,3 +45,8 @@ This provides two tanks, support from Bell, and two damage dealers. Bestar and R
 ## Availability
 - **Exclusive Weapon:** None.
 - **Awakening:** Not available.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1314.jpeg`](../../IMG_1314.jpeg)  
+**Asset location:** `IMG_1314.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
