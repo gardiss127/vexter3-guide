@@ -4,6 +4,7 @@
 **Faction:** Ranger
 **Role:** DPS
 **Position:** Backline
+**Portrait approval:** APPROVED by user on 2026-11-11 for exact cropped image `IMG_1293(4).jpeg`, showing Cynthia with long white hair, pointed elf ears, blue earrings, silver-white armor, blue gemstones, and crescent-moon motifs. Preserve the original crop without alteration or substitution. **Image binary not yet committed to GitHub.**
 **Portrait:** Original user-supplied portrait (white-haired elf with crescent-moon armor) from conversation. Original image asset must be attached before website integration; do not substitute.
 
 ## Character overview
