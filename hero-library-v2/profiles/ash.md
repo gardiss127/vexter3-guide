@@ -45,3 +45,8 @@ This example Ranger lineup uses two tanks for protection, Bell for support, and 
 
 ## Approval Provenance
 Written profile approved by user ("Looks good") after confirming no Exclusive Weapon and no Awakening. Based on five user-provided skill screenshots. No exact variable damage percentages or level-dependent statistics reproduced.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1306.jpeg`](../../IMG_1306.jpeg)  
+**Asset location:** `IMG_1306.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
