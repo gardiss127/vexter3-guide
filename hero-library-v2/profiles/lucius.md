@@ -41,3 +41,8 @@ This is a faction-compatible example, not necessarily his strongest lineup. Luci
 
 ## Approval
 User reviewed the complete written profile, confirmed no Exclusive Weapon or Awakening, and gave final approval ("Looks good") on 2026-11-11.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1304.jpeg`](../../IMG_1304.jpeg)  
+**Asset location:** `IMG_1304.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
