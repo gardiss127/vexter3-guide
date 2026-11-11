@@ -68,3 +68,8 @@ As a backline support, Nicole benefits from defensive gear that helps her surviv
 ## Approval Provenance
 
 User reviewed the complete written profile and approved it with "Looks good." Saved immediately to the fresh-start GitHub branch.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1301.jpeg`](../../IMG_1301.jpeg)  
+**Asset location:** `IMG_1301.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
