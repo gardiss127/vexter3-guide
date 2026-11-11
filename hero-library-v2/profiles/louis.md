@@ -51,3 +51,8 @@ Recovered approved milestone effects:
 
 ## Approval provenance
 Approved original profile; user subsequently approved removal of Investment Notes. Recovered exact approved priority and weapon milestone categories from earlier approval discussion on 2026-11-11; user reconfirmed the restored version with "Looks good". No Investment Notes section.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1294.jpeg`](../../IMG_1294.jpeg)  
+**Asset location:** `IMG_1294.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
