@@ -37,3 +37,8 @@ Zoya is a backline Warrior damage dealer who uses Energy attacks, area damage, i
 
 ## Approval provenance
 Recovered from the V2 review explicitly approved by user with “Looks good” on 2026-11-11. No Investment Notes section.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1290.jpeg`](../../IMG_1290.jpeg)  
+**Asset location:** `IMG_1290.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
