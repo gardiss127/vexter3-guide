@@ -1,6 +1,6 @@
 # Zoya — UR Warrior DPS
 
-**Status:** APPROVED by user, 2026-11-11
+**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Zoya looks good")
 **Faction:** Warrior
 **Role:** DPS
 **Position:** Backline
