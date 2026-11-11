@@ -44,3 +44,8 @@ Grenwald pairs particularly well with Stellar in monster encounters. Her Wishing
 - No level-dependent damage percentages copied.
 - No exclusive weapon or awakening, confirmed by user.
 - User approved profile: “Looks good.”
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1311.jpeg`](../../IMG_1311.jpeg)  
+**Asset location:** `IMG_1311.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
