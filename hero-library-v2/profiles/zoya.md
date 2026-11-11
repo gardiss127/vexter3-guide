@@ -4,6 +4,7 @@
 **Faction:** Warrior
 **Role:** DPS
 **Position:** Backline
+**Portrait approval:** APPROVED by user on 2026-11-11 for the exact cropped image `IMG_1290(4).jpeg` showing Zoya with flowing purple hair, antler-and-skull headdress, and woodland armor. Preserve the original crop without substitution or alteration. **Image binary not yet committed to GitHub.**
 **Portrait:** Use only exact original user-supplied portrait from the approval conversation; portrait asset not yet verified in V2. Do not substitute legacy or generated art.
 
 ## Character overview
