@@ -5,6 +5,7 @@
 **Role:** Tank
 **Position:** Frontline
 **Damage type:** Physical
+**Portrait approval:** APPROVED by user on 2026-11-11 for exact cropped image `IMG_1292(4).jpeg`, depicting Shadow in a dark hood and beak-shaped metal mask with glowing purple eyes, layered armor and a purple shoulder gemstone. Preserve the original crop without alteration or substitution. **Image binary not yet committed to GitHub.**
 **Portrait:** Use only the exact original user-supplied portrait from the approval conversation; portrait asset not yet verified in V2. Do not substitute legacy or generated art.
 
 ## Character overview
