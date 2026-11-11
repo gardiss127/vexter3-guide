@@ -61,3 +61,8 @@ Bella provides additional frontline protection while Marlena and Zoya handle dam
 ## Approval Provenance
 
 User provided screenshots for all five skills, confirmed SSR Warrior Tank with no Exclusive Weapon or Awakening, reviewed the complete written profile, and gave final approval ("Looks good") on 2026-11-11.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1303.jpeg`](../../IMG_1303.jpeg)  
+**Asset location:** `IMG_1303.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
