@@ -65,3 +65,8 @@ His Warrior's Anthem benefits all five heroes, making this a natural faction-foc
 ## Approval and formatting notes
 
 User explicitly approved this version with “Yes looks good” on 2026-11-11. Original portrait only. **No skill images. No separate milestone section. No level-dependent damage values.** Do not modify this approved version without user permission.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1291.jpeg`](../../IMG_1291.jpeg)  
+**Asset location:** `IMG_1291.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
