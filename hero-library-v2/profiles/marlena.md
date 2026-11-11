@@ -45,3 +45,8 @@ A full Warrior team maximizes Marlena's Battle Will stack capacity and benefits 
 
 ## Approval provenance
 Exact approved profile text based on user-provided five skill screenshots and five Awakening screenshots. User confirmed Awakening unlocks at 1, 10, 20, 30, 40 and explicitly approved this draft with “Looks good” on 2026-11-11. Do not silently revise.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1287.jpeg`](../../IMG_1287.jpeg)  
+**Asset location:** `IMG_1287.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
