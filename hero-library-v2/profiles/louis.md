@@ -1,6 +1,6 @@
 # Louis — UR Ranger Tank
 
-**Status:** APPROVED by user; Investment Notes removal subsequently approved, 2026-11-11
+**Status:** APPROVED — user reconfirmed restored written profile on 2026-11-11 ("Looks good"); Investment Notes removed
 **Faction:** Ranger
 **Role:** Tank
 **Position:** Frontline
@@ -49,4 +49,4 @@ Recovered approved milestone effects:
 **Awakening:** Not currently available.
 
 ## Approval provenance
-Approved original profile; user subsequently approved removal of Investment Notes. Recovered exact approved priority and weapon milestone categories from earlier approval discussion on 2026-11-11; pending user reconfirmation of this restored version. No Investment Notes section.
+Approved original profile; user subsequently approved removal of Investment Notes. Recovered exact approved priority and weapon milestone categories from earlier approval discussion on 2026-11-11; user reconfirmed the restored version with "Looks good". No Investment Notes section.
