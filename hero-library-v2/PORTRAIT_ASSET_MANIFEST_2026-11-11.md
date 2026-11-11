@@ -4,7 +4,7 @@
 **Updated:** 2026-11-11  
 **Scope:** 27 saved hero profiles, 27 original portrait files. All files already uploaded by user; preserve original JPEGs without alteration. Portrait paths below are relative to repository root.
 
-## Confirmed or visually verified assignments (22)
+## Confirmed or visually verified assignments (27)
 
 | Hero | Existing original JPEG | Basis |
 |---|---|---|
@@ -30,18 +30,15 @@
 | Grenwald | `IMG_1311.jpeg` | Visually matched, user approval not separately recorded |
 | Kesso | `IMG_1313.jpeg` | Visually matched, user approval not separately recorded |
 | Bestar | `IMG_1314.jpeg` | Visually matched, user approval not separately recorded |
+| Ash | `IMG_1306.jpeg` | User confirmed filename |
+| Sivir | `IMG_1307.jpeg` | User confirmed filename |
+| Griffith | `IMG_1308.jpeg` | User confirmed filename |
+| Hastar | `IMG_1309.jpeg` | User confirmed filename |
+| Stellar | `IMG_1310.jpeg` | User confirmed filename |
 
-## Pending explicit confirmation (5)
+## Pending explicit confirmation (0)
 
-The following are **provisional visual/order matches only**. Do not mark user-approved or attach them to profiles until confirmed:
-
-| Possible hero | JPEG | Status |
-|---|---|---|
-| Ash | `IMG_1306.jpeg` | Pending user confirmation |
-| Sivir | `IMG_1307.jpeg` | Pending user confirmation |
-| Griffith | `IMG_1308.jpeg` | Pending user confirmation |
-| Hastar | `IMG_1309.jpeg` | Pending user confirmation |
-| Stellar | `IMG_1310.jpeg` | Pending user confirmation |
+All five previously pending assignments (Ash, Sivir, Griffith, Hastar, Stellar) were explicitly confirmed by the user on 2026-11-11. All 27 saved profiles now have portrait asset references.
 
 ## Preservation rules
 
