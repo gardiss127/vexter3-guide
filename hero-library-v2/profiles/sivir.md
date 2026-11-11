@@ -42,3 +42,8 @@ Not available — confirmed by user.
 
 ## Approval Provenance
 Written profile reviewed against five user-provided skill screenshots and approved by user (“Looks good”) on 2026-11-11. Exact variable damage percentages and level-dependent statistics intentionally omitted.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1307.jpeg`](../../IMG_1307.jpeg)  
+**Asset location:** `IMG_1307.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
