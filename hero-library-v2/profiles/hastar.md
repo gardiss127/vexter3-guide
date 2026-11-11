@@ -41,3 +41,8 @@ None — user confirmed.
 
 ## Awakening
 Not available — user confirmed.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1309.jpeg`](../../IMG_1309.jpeg)  
+**Asset location:** `IMG_1309.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
