@@ -43,3 +43,8 @@ Example Warrior lineup for PvE and resource farming. Celia replaces a more conve
 
 ## Approval Provenance
 Written profile approved by user ("Looks good") after confirming no Exclusive Weapon and no Awakening. Based on the five user-provided skill screenshots. No exact variable damage percentages or level-dependent statistics reproduced.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1305.jpeg`](../../IMG_1305.jpeg)  
+**Asset location:** `IMG_1305.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
