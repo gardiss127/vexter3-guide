@@ -41,3 +41,8 @@ Stellar works best alongside strong Warlock damage dealers who benefit from Wish
 - Monster-focused buffs should not be described as universal PvP damage bonuses.
 - No exclusive weapon or awakening, confirmed by user.
 - Profile approved by user: “Looks good.”
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1310.jpeg`](../../IMG_1310.jpeg)  
+**Asset location:** `IMG_1310.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
