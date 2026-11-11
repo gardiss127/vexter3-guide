@@ -43,3 +43,8 @@ Ranger damage dealer who builds Moonlight stacks and combines offensive pressure
 
 ## Approval provenance
 User approved original profile and explicitly approved removal of Investment Notes. Exact skill priority and Awakening effects recovered from earlier approved review and restored on 2026-11-11; user reconfirmed the restored profile with "Looks good". No Investment Notes section.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1293.jpeg`](../../IMG_1293.jpeg)  
+**Asset location:** `IMG_1293.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
