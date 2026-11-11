@@ -34,3 +34,8 @@ Backline Ranger DPS specializing in Energy Damage, priority-target burst, increa
 
 ## Approval provenance
 User explicitly confirmed no exclusive weapon and approved the final profile. No Investment Notes section.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1296.jpeg`](../../IMG_1296.jpeg)  
+**Asset location:** `IMG_1296.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
