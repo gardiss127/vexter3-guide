@@ -4,6 +4,7 @@
 **Faction:** Ranger
 **Role:** Support / Healer / ATK buffer
 **Position:** Backline
+**Portrait approval:** APPROVED by user on 2026-11-11 for exact cropped image `IMG_1295(4).jpeg`, showing Bell with pale braided hair, green eyes, pointed ears, fur-trimmed headwear, and a drum. Preserve original crop without alteration or substitution. **Image binary not yet committed to GitHub.**
 **Portrait:** Original user-supplied portrait (green-eyed white-haired elf-like girl holding a drum); exact asset pending attachment to V2.
 
 ## Character overview
