@@ -1,6 +1,6 @@
 # Bell — UR Ranger Support
 
-**Status:** APPROVED by user, 2026-11-11
+**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Bell looks good")
 **Faction:** Ranger
 **Role:** Support / Healer / ATK buffer
 **Position:** Backline
