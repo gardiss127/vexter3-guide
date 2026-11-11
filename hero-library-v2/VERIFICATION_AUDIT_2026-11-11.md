@@ -1,31 +1,33 @@
-# Hero Library V2 — Verification Audit (2026-11-11)
+# Hero Library V2 — Written Profile Verification Audit (2026-11-11)
 
 **Branch:** `hero-library-fresh-start-2026-11-11`
-**Scope:** Ten user-approved V2 hero records. This audit is not a certification that their complete approved contents have been independently verified against the original messages and images.
-**Live website:** Do not modify `main` without explicit approval.
+**Scope:** Ten saved written hero profiles individually displayed to the user and explicitly reconfirmed on 2026-11-11.
+**Result:** **10/10 written profiles approved and recorded in GitHub.**
+**Live website:** `main` remains unchanged; no publication authorized.
 
-| Hero | Markdown record | Exact original portrait committed to V2 | Source-fidelity / remaining work |
+| Hero | Written profile | User's final reconfirmation | Portrait in V2 |
 |---|---|---|---|
-| Arthur | Saved | No | Substantial approved text; compare against source |
-| Marlena | Saved | No | Substantial approved text; compare Awakening details and source |
-| Harper | Saved | No | Substantial approved text; compare against source |
-| Zoya | Saved | No | Substantial recovered text; compare against source |
-| Daskal | Saved | No | Battle Will and Deadly Pierce effects incomplete; verify weapon and approved text |
-| Shadow | Saved | No | Recovered detailed skills; verify against original approval |
-| Cynthia | Saved | No | Exact approved skill upgrade ranking missing |
-| Louis | Saved | No | Exact approved skill upgrade ranking and weapon 7/9-star details missing |
-| Bell | Saved | No | Substantial recovered text; compare against source |
-| Red Lady | Saved | No | Substantial recovered text; compare against source |
+| Arthur | Approved | Recorded | Not committed |
+| Marlena | Approved | Recorded | Not committed |
+| Harper | Approved | Recorded | Not committed |
+| Zoya | Approved | Recorded | Not committed |
+| Daskal | Approved | Recorded | Not committed |
+| Shadow | Approved | Recorded | Not committed |
+| Cynthia | Approved | Recorded | Not committed |
+| Louis | Approved | Recorded | Not committed |
+| Bell | Approved | Recorded | Not committed |
+| Red Lady | Approved | Recorded | Not committed |
 
-## Completion requirements
-1. Retrieve each original portrait from the original user-uploaded image, never from legacy hero library, search results or generated substitutes.
-2. Commit the exact portrait binary in V2 assets and update each profile's image reference.
-3. Compare all ten saved Markdown profiles with their explicit user-approved original drafts, preserving descriptions, skill order, weapon/Awakening eligibility, and corrections.
-4. Recover Daskal's missing two skill descriptions, Cynthia and Louis's exact skill rankings, and Louis's remaining weapon effects **from source**, not guesses.
-5. Confirm no Investment Notes, no copied variable damage percentages, and two tanks + two DPS + support in recommended team.
-6. Re-check repository tree and each referenced portrait; mark a profile verified only when both content and image are confirmed.
+## Written-profile checks
+- All ten Markdown profile files exist and each records the user's final approval.
+- All ten contain skill descriptions, a skill upgrade priority, gear guidance, team composition, and weapon/Awakening status.
+- No profile has an Investment Notes section.
+- Daskal's Battle Will and Deadly Pierce descriptions, Cynthia's skill order and Awakening, and Louis's skill order and Thorn Shackles milestones were restored and explicitly reconfirmed by the user before this audit was finalized.
+- The written approval milestone is complete. This is **user reconfirmation of saved text**, not an independent line-by-line validation of every statement against the original screenshots.
 
-**Status:** 10/10 Markdown records; 0/10 original portrait assets; full ten-profile verification **NOT COMPLETE**.
+## Remaining work (separate from written-profile approval)
+- **Original portraits: 0/10 committed to V2.** Only exact user-supplied images are acceptable; do not substitute old, searched, or generated portraits.
+- Any future image integration, translations, layout, and website deployment require separate review.
+- Do not change `main` or the live website without explicit user authorization.
 
-## Next step
-Recover original conversation image files and approved text. If they are inaccessible in current tools, ask the user to reattach them rather than inventing or substituting.
+**Final status: WRITTEN PROFILE REVIEW COMPLETE — 10/10 approved; portrait and website integration pending.**
