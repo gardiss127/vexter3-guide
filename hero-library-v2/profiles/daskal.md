@@ -51,3 +51,8 @@ Recovered weapon milestones from approved profile:
 
 ## Approval provenance
 User explicitly approved the Daskal V2 profile on 2026-11-11. Recovered and expanded from the original approved written review. Portrait asset is tracked separately and is not a blocker for text verification. No Investment Notes section. Do not copy legacy Hero Library text or silently alter approved mechanics.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1289.jpeg`](../../IMG_1289.jpeg)  
+**Asset location:** `IMG_1289.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
