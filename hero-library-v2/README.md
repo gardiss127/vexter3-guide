@@ -8,6 +8,10 @@ This is the isolated working directory for the Hero Library rebuild on `hero-lib
 
 **Audit:** [Written Profile Verification Audit](VERIFICATION_AUDIT_2026-11-11.md).
 
+## Mandatory approval-and-save rule
+
+When the user says **"looks good"** about a hero's written profile, treat it as **final approval**. Immediately commit that complete approved profile to this same repository (`gardiss127/vexter3-guide`), branch (`hero-library-fresh-start-2026-11-11`), and directory (`hero-library-v2/profiles/`). Confirm that the GitHub commit succeeded **before** presenting or beginning review of the next hero. Do not accumulate unsaved approvals, silently change approved wording, overwrite another approved profile without permission, or modify `main`. If the commit fails, explicitly report the failure and do not claim the profile was saved.
+
 ## Preserved requirements
 - Qualitative skill descriptions without variable damage percentages or level-dependent hero ATK values.
 - Five skills, recommended skill order, role-appropriate gear, squad synergy, and accurate Exclusive Weapon/Awakening status.
