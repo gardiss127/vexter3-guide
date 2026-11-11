@@ -38,3 +38,8 @@ Arthur pairs well with another frontline Tank, damage-focused Warrior heroes, an
 
 ## Approval provenance
 All descriptions and priorities above are copied from the complete draft explicitly approved by the user with “Looks good” on 2026-11-11. Do not silently revise the approved profile.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`hero-library-v2/portrait-approvals/IMG_1286.jpeg`](../../hero-library-v2/portrait-approvals/IMG_1286.jpeg)  
+**Asset location:** `hero-library-v2/portrait-approvals/IMG_1286.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
