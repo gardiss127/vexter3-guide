@@ -1,6 +1,6 @@
 # Red Lady — UR Ranger DPS
 
-**Status:** APPROVED by user, 2026-11-11
+**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Red Lady looks good")
 **Faction:** Ranger
 **Role:** DPS / priority-target burst
 **Position:** Backline
