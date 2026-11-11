@@ -51,3 +51,8 @@ Ulfrid provides frontline protection while Annie supplies Burn and Scorch damage
 
 ## Approval provenance
 Based on five skill screenshots and five Awakening milestone screenshots supplied by the user. User approved this complete qualitative written profile and explicitly requested immediate save to the fresh-start branch. No exact level-dependent damage percentages; no Investment Notes. Portrait deferred until the final phase.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1299.jpeg`](../../IMG_1299.jpeg)  
+**Asset location:** `IMG_1299.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
