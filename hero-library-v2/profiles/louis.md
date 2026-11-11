@@ -4,6 +4,7 @@
 **Faction:** Ranger
 **Role:** Tank
 **Position:** Frontline
+**Portrait approval:** APPROVED by user on 2026-11-11 for Louis's previously referenced cropped portrait. The profile describes a long blond-haired armored man with a red cape. **Exact cropped image filename and binary have not been verified or committed to GitHub V2; do not substitute artwork or claim the image was uploaded.**
 **Portrait:** Original user-supplied portrait (long blond-haired armored man with red cape) from conversation; exact asset pending attachment to V2.
 
 ## Character overview
