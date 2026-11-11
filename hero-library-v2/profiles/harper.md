@@ -9,6 +9,7 @@
 **Exclusive Weapon:** None
 **Awakening:** Not available
 
+**Portrait approval:** APPROVED by user on 2026-11-11 for the exact user-supplied cropped portrait `IMG_1291(4).jpeg`, showing Harper with a large braided orange beard, curled mustache, horned helmet, and fur-lined armor. Preserve the original crop without alteration or substitution. **Image binary not yet committed to GitHub.**
 **Portrait:** Use ONLY the exact original Harper portrait uploaded in conversation (IMG_1291(2).jpeg). It shows a red-bearded Warrior wearing a horned helmet. Do not generate, search for, crop, alter, or substitute artwork. Original portrait still needs to be committed as an asset.
 
 ## Hero Overview
