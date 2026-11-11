@@ -1,6 +1,6 @@
 # Daskal — UR Warrior Tank
 
-**Status:** APPROVED by user, 2026-11-11
+**Status:** APPROVED — user reconfirmed completed written profile on 2026-11-11 ("Daskal looks good")
 **Faction:** Warrior
 **Role:** Tank
 **Position:** Frontline
