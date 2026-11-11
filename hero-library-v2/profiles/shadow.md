@@ -1,6 +1,6 @@
 # Shadow — UR Ranger Tank
 
-**Status:** APPROVED by user, 2026-11-11
+**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Shadow looks good")
 **Faction:** Ranger
 **Role:** Tank
 **Position:** Frontline
