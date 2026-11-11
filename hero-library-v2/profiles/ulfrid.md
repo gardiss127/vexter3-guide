@@ -51,3 +51,8 @@ These are skill-linked milestones, not a complete description of every weapon en
 
 ## Approval provenance
 Based on five user-supplied Ulfrid skill screenshots and the user's identification of Ulfrid as a UR Warlock Tank. The user approved the full written profile, including skill priority, gear, team framework, and Wolven Claw milestones, on 2026-11-11. Qualitative effects only; no variable damage percentages. No Investment Notes section. Portrait work deferred until the final phase.
+
+## Portrait asset reference
+
+**Original uploaded JPEG:** [`IMG_1298.jpeg`](../../IMG_1298.jpeg)  
+**Asset location:** `IMG_1298.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
