@@ -4,6 +4,7 @@
 **Faction:** Warrior
 **Role:** Tank
 **Position:** Frontline
+**Portrait approval:** APPROVED by user on 2026-11-11 for the newly supplied cropped portrait `IMG_1289(3).jpeg` (dark armor, glowing red eyes, crimson cape, skull shoulder armor, greatsword). Approval applies to the exact user-supplied image, not a substitute. **Image binary not yet committed to GitHub.**
 **Portrait source received and visually confirmed:** User uploaded `IMG_1289(2).jpeg` on 2026-11-11. It depicts Daskal in dark armor, red glowing eyes, red cape, skull shoulder armor and a large sword. The exact original file has **not yet been committed to the GitHub V2 assets directory**. Preserve its original pixels; never substitute legacy or generated artwork.
 
 ## Character overview
