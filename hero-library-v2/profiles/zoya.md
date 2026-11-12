@@ -1,11 +1,8 @@
-# Zoya — UR Warrior DPS
+# Zoya
 
-**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Zoya looks good")
 **Faction:** Warrior
 **Role:** DPS
 **Position:** Backline
-**Portrait approval:** APPROVED by user on 2026-11-11 for the exact cropped image `IMG_1290(4).jpeg` showing Zoya with flowing purple hair, antler-and-skull headdress, and woodland armor. Preserve the original crop without substitution or alteration. **Image binary not yet committed to GitHub.**
-**Portrait:** Use only exact original user-supplied portrait from the approval conversation; portrait asset not yet verified in V2. Do not substitute legacy or generated art.
 
 ## Character overview
 Zoya is a backline Warrior damage dealer who uses Energy attacks, area damage, increased Energy damage taken by enemies, and critical strikes to pressure opponents.
@@ -35,10 +32,3 @@ Zoya is a backline Warrior damage dealer who uses Energy attacks, area damage, i
 **Exclusive Weapon:** None.
 **Awakening:** Not currently available.
 
-## Approval provenance
-Recovered from the V2 review explicitly approved by user with “Looks good” on 2026-11-11. No Investment Notes section.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1290.jpeg`](../../IMG_1290.jpeg)  
-**Asset location:** `IMG_1290.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
