@@ -1,11 +1,9 @@
-# Marlena — UR Hero #2
+# Marlena
 
-**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Marlena looks good")
 **Faction:** Warrior
 **Role:** DPS
 **Position:** Backline
 **Damage type:** Energy
-**Portrait:** User-supplied original portrait in conversation, 2026-11-11 (IMG_1287(2).jpeg). Exact image must be placed in V2 assets before integration; never substitute legacy images.
 
 ## Character overview
 Marlena is a powerful Energy DPS hero who specializes in explosive attacks, critical hits, and stacking *Battle Will*. Her damage potential and survivability improve as she accumulates stacks, making her especially effective in Warrior-heavy teams. She also weakens enemies through Dread.
@@ -43,10 +41,3 @@ A full Warrior team maximizes Marlena's Battle Will stack capacity and benefits 
 
 **Exclusive Weapon:** None.
 
-## Approval provenance
-Exact approved profile text based on user-provided five skill screenshots and five Awakening screenshots. User confirmed Awakening unlocks at 1, 10, 20, 30, 40 and explicitly approved this draft with “Looks good” on 2026-11-11. Do not silently revise.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1287.jpeg`](../../IMG_1287.jpeg)  
-**Asset location:** `IMG_1287.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
