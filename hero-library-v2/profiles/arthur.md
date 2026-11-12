@@ -1,10 +1,8 @@
-# Arthur — UR Hero #1
+# Arthur
 
-**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Arthur looks good")
 **Faction:** Warrior
 **Role:** Tank
 **Position:** Frontline
-**Portrait:** User supplied original portrait in conversation on 2026-11-11 (IMG_1286(3).jpeg); exact portrait must be copied into V2 assets before website integration. DO NOT substitute an older portrait or generate a replacement.
 
 ## Character overview
 Arthur is a durable frontline protector who specializes in absorbing damage and strengthening his team's defenses. His personal shielding, allied damage reduction, and Tank-focused passive make him particularly valuable in battles where survivability matters.
@@ -31,15 +29,8 @@ Arthur is a durable frontline protector who specializes in absorbing damage and 
 - **Frontline:** Arthur (Tank), second Warrior Tank.
 - **Backline:** Warrior DPS, Warrior DPS, Support.
 
-Arthur pairs well with another frontline Tank, damage-focused Warrior heroes, and a backline Support who can sustain the team. Specific hero combinations will be identified as the new library is built.
+Arthur pairs well with another frontline Tank, damage-focused Warrior heroes, and a backline Support who can sustain the team.
 
 **Exclusive Weapon:** None.
 **Awakening:** None.
 
-## Approval provenance
-All descriptions and priorities above are copied from the complete draft explicitly approved by the user with “Looks good” on 2026-11-11. Do not silently revise the approved profile.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`hero-library-v2/portrait-approvals/IMG_1286.jpeg`](../../hero-library-v2/portrait-approvals/IMG_1286.jpeg)  
-**Asset location:** `hero-library-v2/portrait-approvals/IMG_1286.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
