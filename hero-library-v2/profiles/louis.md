@@ -1,11 +1,8 @@
-# Louis — UR Ranger Tank
+# Louis
 
-**Status:** APPROVED — user reconfirmed restored written profile on 2026-11-11 ("Looks good"); Investment Notes removed
 **Faction:** Ranger
 **Role:** Tank
 **Position:** Frontline
-**Portrait approval:** APPROVED by user on 2026-11-11 for Louis's previously referenced cropped portrait. The profile describes a long blond-haired armored man with a red cape. **Exact cropped image filename and binary have not been verified or committed to GitHub V2; do not substitute artwork or claim the image was uploaded.**
-**Portrait:** Original user-supplied portrait (long blond-haired armored man with red cape) from conversation; exact asset pending attachment to V2.
 
 ## Character overview
 Frontline Ranger tank with ally protection, damage mitigation, self-healing, and survival mechanics.
@@ -33,7 +30,6 @@ Frontline Ranger tank with ally protection, damage mitigation, self-healing, and
 **Backline:** Cynthia + Red Lady + Bell.
 
 ## Exclusive Weapon — Thorn Shackles
-Recovered approved milestone effects:
 - **1 star:** DEF bonus.
 - **2 stars:** HP bonus.
 - **3 stars:** ATK bonus.
@@ -49,10 +45,3 @@ Recovered approved milestone effects:
 
 **Awakening:** Not currently available.
 
-## Approval provenance
-Approved original profile; user subsequently approved removal of Investment Notes. Recovered exact approved priority and weapon milestone categories from earlier approval discussion on 2026-11-11; user reconfirmed the restored version with "Looks good". No Investment Notes section.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1294.jpeg`](../../IMG_1294.jpeg)  
-**Asset location:** `IMG_1294.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
