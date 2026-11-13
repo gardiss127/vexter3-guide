@@ -4,7 +4,6 @@
 **Faction:** Ranger  
 **Role:** DPS  
 **Position:** Backline  
-**Status:** APPROVED — user confirmed final written profile on 2026-11-11.
 
 ## Character Overview
 Ash is an SSR Ranger DPS hero specializing in Physical damage and monster hunting. She combines single-target and multi-target archery attacks with a passive ability that increases monster damage for the two highest-ATK Rangers in her squad. Her defining ability, Focus, makes her especially useful in Ranger squads built for PvE encounters.
@@ -38,15 +37,7 @@ This example Ranger lineup uses two tanks for protection, Bell for support, and 
 **Best use:** Monster hunting and PvE content, where Ash's Focus passive can improve the performance of the squad's strongest Rangers.
 
 ## Exclusive Weapon
-**None.** Confirmed by user.
+**None.**
 
 ## Awakening
-**Not available.** Confirmed by user.
-
-## Approval Provenance
-Written profile approved by user ("Looks good") after confirming no Exclusive Weapon and no Awakening. Based on five user-provided skill screenshots. No exact variable damage percentages or level-dependent statistics reproduced.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1306.jpeg`](../../IMG_1306.jpeg)  
-**Asset location:** `IMG_1306.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+**Not currently available.**
