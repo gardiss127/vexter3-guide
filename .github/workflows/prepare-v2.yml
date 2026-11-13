@@ -1,0 +1,59 @@
+name: Prepare VEXTER3 V2 release branch
+on:
+  push:
+    branches: [website-v2-release-prep-2026-11-13]
+    paths: [VEXTER3_V2_Approved_French_Release_Files.zip]
+permissions:
+  contents: write
+jobs:
+  unpack:
+    if: github.ref == 'refs/heads/website-v2-release-prep-2026-11-13'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Unpack approved V2 files safely
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import zipfile, pathlib, shutil
+          archive=pathlib.Path('VEXTER3_V2_Approved_French_Release_Files.zip')
+          if not archive.is_file(): raise SystemExit('Missing approved V2 archive')
+          root=pathlib.Path.cwd().resolve()
+          with zipfile.ZipFile(archive) as z:
+              bad=z.testzip()
+              if bad: raise SystemExit('Corrupt zip entry: '+bad)
+              names=z.namelist()
+              required=['index.html','rate-my-squad.html','hero-library-v2/index.html','events-library/index.html']
+              for item in required:
+                  if item not in names: raise SystemExit('Required release file missing: '+item)
+              for entry in z.infolist():
+                  path=pathlib.PurePosixPath(entry.filename)
+                  if path.is_absolute() or '..' in path.parts or entry.filename.startswith('.github/'):
+                      raise SystemExit('Unsafe archive path: '+entry.filename)
+                  dest=(root/entry.filename).resolve()
+                  if not dest.is_relative_to(root): raise SystemExit('Unsafe destination')
+                  if entry.is_dir(): dest.mkdir(parents=True,exist_ok=True);continue
+                  dest.parent.mkdir(parents=True,exist_ok=True)
+                  with z.open(entry) as src, open(dest,'wb') as out: shutil.copyfileobj(src,out)
+          print('Extracted',len(names),'approved archive entries')
+          PY
+      - name: Verify release structure
+        run: |
+          test -f hero-library-v2/profiles/arthur.md
+          test -f hero-library-v2/profiles-fr/arthur.md
+          test -f rate-my-squad.html
+          test -f events-library/index.html
+          test -f index.html
+      - name: Commit expanded website to release branch only
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          rm -f VEXTER3_V2_Approved_French_Release_Files.zip
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m 'Prepare approved VEXTER3 V2 site files for launch review'
+            git push origin HEAD:website-v2-release-prep-2026-11-13
+          fi
