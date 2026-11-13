@@ -4,7 +4,6 @@
 **Faction:** Warrior  
 **Role:** Support  
 **Position:** Backline  
-**Status:** APPROVED — user confirmed final written profile on 2026-11-11.
 
 ## Character Overview
 Celia is a Warrior support hero specializing in monster hunting and resource rewards. Unlike healing-focused supports, she contributes Physical damage through dagger attacks while improving her squad's effectiveness against monsters. Her defining skill, Ultimate Hunt, increases damage against monsters and the resources earned from defeating Resource and Elite Monsters.
@@ -36,15 +35,7 @@ Tenacity is fixed and requires no normal skill upgrades.
 Example Warrior lineup for PvE and resource farming. Celia replaces a more conventional support when her monster-damage and resource bonuses are desirable.
 
 ## Exclusive Weapon
-**None.** Confirmed by user.
+**None.**
 
 ## Awakening
-**Not available.** Confirmed by user.
-
-## Approval Provenance
-Written profile approved by user ("Looks good") after confirming no Exclusive Weapon and no Awakening. Based on the five user-provided skill screenshots. No exact variable damage percentages or level-dependent statistics reproduced.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1305.jpeg`](../../IMG_1305.jpeg)  
-**Asset location:** `IMG_1305.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+**Not currently available.**
