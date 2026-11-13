@@ -1,14 +1,10 @@
 # Claire — UR Warrior DPS
 
-**Status:** APPROVED — user confirmed final written profile on 2026-11-11 ("Claire looks good")
 **Rarity:** UR
 **Faction:** Warrior
 **Role:** DPS
 **Position:** Backline
 **Damage type:** Physical
-**Exclusive Weapon:** None (user confirmed)
-**Awakening:** Not currently available (user confirmed)
-**Portrait:** Deferred to final portrait phase; do not substitute or generate artwork.
 
 ## Character overview
 Claire is a backline Warrior DPS who specializes in powerful Physical Damage attacks, rapid multi-hit strikes, and area damage. Her abilities are particularly effective against monsters, and she increases the damage dealt by the team's strongest Warrior attackers.
@@ -40,11 +36,3 @@ Claire is a backline Warrior DPS who specializes in powerful Physical Damage att
 ## Exclusive Weapon and Awakening
 - **Exclusive Weapon:** None.
 - **Awakening:** Not currently available.
-
-## Approval provenance
-Written profile based on five user-supplied Claire skill screenshots, with qualitative descriptions rather than level-dependent damage values. User explicitly clarified that Claire has no Exclusive Weapon or Awakening, then approved the complete corrected profile on 2026-11-11. Portrait work is deferred until all written profiles are complete. No Investment Notes section.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1297.jpeg`](../../IMG_1297.jpeg)  
-**Asset location:** `IMG_1297.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
