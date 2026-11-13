@@ -1,10 +1,9 @@
-# Lucius — Hero Library V2
+# Lucius — SSR Warrior Tank
 
 **Rarity:** SSR  
 **Faction:** Warrior  
 **Role:** Tank  
 **Position:** Frontline  
-**Status:** APPROVED by user, 2026-11-11
 
 ## Character Overview
 Lucius is a frontline Warrior tank who combines Physical damage with defensive utility against monsters. His strongest offensive skill delivers a powerful axe strike with a stun enhancement, while his passive reduces damage received from monsters. He is especially useful in PvE battles where monster damage reduction and crowd control are valuable.
@@ -34,15 +33,7 @@ Lucius is a frontline Warrior tank who combines Physical damage with defensive u
 This is a faction-compatible example, not necessarily his strongest lineup. Lucius can fill a frontline position when preferred Warrior tanks are unavailable.
 
 ## Exclusive Weapon
-**Not Available** — confirmed by user.
+**Not available.**
 
 ## Awakening
-**Not Available** — confirmed by user.
-
-## Approval
-User reviewed the complete written profile, confirmed no Exclusive Weapon or Awakening, and gave final approval ("Looks good") on 2026-11-11.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1304.jpeg`](../../IMG_1304.jpeg)  
-**Asset location:** `IMG_1304.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+**Not available.**
