@@ -5,7 +5,6 @@
 **Role:** Tank
 **Position:** Frontline
 **Damage Type:** Energy
-**Status:** APPROVED — user confirmed final written profile on 2026-11-11 ("Looks good").
 
 ## Character Overview
 Hastar is a frontline Warlock tank who combines Energy damage, crowd control, and personal survivability. His tentacle-based abilities allow him to interrupt enemies, damage multiple targets, and protect himself when his health becomes critically low.
@@ -34,15 +33,10 @@ Tenacity is a fixed support skill and does not require regular upgrades.
 - **Frontline:** Hastar (Tank), Warlock Tank (second frontline)
 - **Backline:** Warlock DPS, Warlock DPS, Warlock Support
 
-Hastar fits a standard two-tank, two-DPS, one-support Warlock formation. Specific teammates can be finalized as we verify the remaining Warlock heroes.
+Hastar fits a standard two-tank, two-DPS, one-support Warlock formation.
 
 ## Exclusive Weapon
-None — user confirmed.
+None.
 
 ## Awakening
-Not available — user confirmed.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1309.jpeg`](../../IMG_1309.jpeg)  
-**Asset location:** `IMG_1309.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+Not currently available.
