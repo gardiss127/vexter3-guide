@@ -6,8 +6,7 @@
 **Position:** Backline
 **Damage Type:** Energy
 **Exclusive Weapon:** None
-**Awakening:** Not available
-**Status:** APPROVED by user, 2026-11-11
+**Awakening:** Not currently available
 
 ## Character Overview
 Grenwald is a Warlock damage dealer specializing in Energy damage, area-of-effect attacks, and increased damage against monsters. Soul Capture Spell damages multiple enemies and provides a temporary ATK boost through star upgrades. His passive improves his effectiveness against monsters.
@@ -36,16 +35,7 @@ Tenacity is fixed and does not require regular upgrades.
 
 Grenwald pairs particularly well with Stellar in monster encounters. Her Wishing Star can strengthen Warlock damage dealers, while his Exorcism Spell provides additional monster damage.
 
-## Verification Notes
-- All five skill descriptions are based on user screenshots.
-- Soul Capture Spell deals area damage, not single-target damage.
+## Important Gameplay Distinctions
+- **Soul Capture Spell** deals area damage, not single-target damage.
 - Its temporary ATK boost requires the relevant star upgrade.
-- Exorcism Spell increases damage specifically against monsters.
-- No level-dependent damage percentages copied.
-- No exclusive weapon or awakening, confirmed by user.
-- User approved profile: “Looks good.”
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1311.jpeg`](../../IMG_1311.jpeg)  
-**Asset location:** `IMG_1311.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+- **Exorcism Spell** increases damage specifically against monsters.
