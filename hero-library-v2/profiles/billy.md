@@ -1,6 +1,5 @@
 # Billy — UR Warlock Tank
 
-**Status:** APPROVED by user, 2026-11-11
 **Faction:** Warlock
 **Rarity:** UR
 **Role:** Tank
@@ -50,24 +49,15 @@ Billy is a frontline tank, so defensive equipment takes priority over offensive 
 | Frontline | Ulfrid — Warlock Tank |
 | Frontline | Billy — Warlock Tank |
 | Backline | Annie — Warlock DPS |
-| Backline | Second Warlock DPS — to be determined |
-| Backline | Warlock Support — to be determined |
+| Backline | Second Warlock DPS |
+| Backline | Warlock Support |
 
 **Why this works:** Ulfrid provides damage reduction for the team, while Billy protects high-ATK allies against Energy Damage and stun effects. Together, they form a defensive frontline that helps Annie survive long enough to apply Burn and build Scorch stacks.
 
 ## Exclusive Weapon
 
-**None.** Confirmed by user.
+**None.**
 
 ## Awakening
 
-**Not available.** Confirmed by user.
-
-## Approval Provenance
-
-User reviewed the complete written profile and explicitly stated: "Billy looks good. Save his complete approved written profile to the fresh-start GitHub branch at hero-library-v2/profiles/billy.md."
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1300.jpeg`](../../IMG_1300.jpeg)  
-**Asset location:** `IMG_1300.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+**Not currently available.**
