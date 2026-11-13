@@ -1,11 +1,8 @@
-# Bell — UR Ranger Support
+# Bell
 
-**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Bell looks good")
 **Faction:** Ranger
 **Role:** Support / Healer / ATK buffer
 **Position:** Backline
-**Portrait approval:** APPROVED by user on 2026-11-11 for exact cropped image `IMG_1295(4).jpeg`, showing Bell with pale braided hair, green eyes, pointed ears, fur-trimmed headwear, and a drum. Preserve original crop without alteration or substitution. **Image binary not yet committed to GitHub.**
-**Portrait:** Original user-supplied portrait (green-eyed white-haired elf-like girl holding a drum); exact asset pending attachment to V2.
 
 ## Character overview
 Backline Ranger support who combines healing with offensive buffs for the team's strongest damage dealers.
@@ -33,10 +30,3 @@ Backline Ranger support who combines healing with offensive buffs for the team's
 **Exclusive Weapon:** None.
 **Awakening:** Not currently available.
 
-## Approval provenance
-User approved after Investment Notes section was removed. No Investment Notes section.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1295.jpeg`](../../IMG_1295.jpeg)  
-**Asset location:** `IMG_1295.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
