@@ -25,7 +25,7 @@ jobs:
               bad=z.testzip()
               if bad: raise SystemExit('Corrupt zip entry: '+bad)
               names=z.namelist()
-              required=['index.html','rate-my-squad.html','hero-library-v2/index.html','events-library/index.html']
+              required=['index.html','squad-advisor/index.html','hero-library-v2/index.html','events-library/index.html']
               for item in required:
                   if item not in names: raise SystemExit('Required release file missing: '+item)
               for entry in z.infolist():
@@ -43,7 +43,7 @@ jobs:
         run: |
           test -f hero-library-v2/profiles/arthur.md
           test -f hero-library-v2/profiles-fr/arthur.md
-          test -f rate-my-squad.html
+          test -f squad-advisor/index.html
           test -f events-library/index.html
           test -f index.html
       - name: Commit expanded website to release branch only
