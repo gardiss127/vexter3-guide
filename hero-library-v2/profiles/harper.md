@@ -6,7 +6,7 @@
 **Position:** Backline
 **Specialty:** Team buffs and damage reduction
 **Exclusive Weapon:** None
-**Awakening:** Not available
+**Awakening:** Not currently available
 
 
 ## Hero Overview
