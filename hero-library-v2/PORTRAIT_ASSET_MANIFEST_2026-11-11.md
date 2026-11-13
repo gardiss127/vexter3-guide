@@ -14,7 +14,7 @@
 | Zoya | `IMG_1290.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Harper | `IMG_1291.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Shadow | `IMG_1292.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Cynthia | `IMG_1293.jpeg` | Previously approved, visually verified |
+| Cynthia | `IMG_1293.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Louis | `IMG_1294.jpeg` | Previously approved, visually verified |
 | Bell | `IMG_1295.jpeg` | Previously approved, visually verified |
 | Red Lady | `IMG_1296.jpeg` | Previously approved, visually verified |
