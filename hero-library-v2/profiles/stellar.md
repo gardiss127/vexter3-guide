@@ -35,8 +35,6 @@ Tenacity is fixed and does not require regular upgrades.
 
 Stellar works best alongside strong Warlock damage dealers who benefit from Wishing Star, especially during monster encounters.
 
-## Verification Notes
-- Final Starlight does not prevent Stellar's death; it heals another ally when she takes fatal damage.
-- Monster-focused buffs should not be described as universal PvP damage bonuses.
-- No exclusive weapon or awakening, confirmed by user.
-- Profile approved by user: “Looks good.”
+## Important Gameplay Distinctions
+- **Final Starlight does not prevent Stellar's death.** It heals another ally when she takes fatal damage.
+- Her monster-focused buffs should not be mistaken for universal PvP damage bonuses.
