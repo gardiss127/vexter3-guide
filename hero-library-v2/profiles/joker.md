@@ -1,6 +1,5 @@
 # Joker — UR Warlock DPS
 
-**Status:** APPROVED by user, 2026-11-11
 **Faction:** Warlock
 **Rarity:** UR
 **Role:** DPS
@@ -48,17 +47,8 @@ This lineup combines frontline protection, Annie's Burn effects, Joker's finishi
 
 ## Exclusive Weapon
 
-**None.** Confirmed by user.
+**None.**
 
 ## Awakening
 
-**Not available.** Confirmed by user.
-
-## Approval Provenance
-
-User reviewed Joker's complete written profile, confirmed no Exclusive Weapon or Awakening, and gave final approval ("Looks good") on 2026-11-11. Written profile approved for Hero Library V2.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1302.jpeg`](../../IMG_1302.jpeg)  
-**Asset location:** `IMG_1302.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+**Not currently available.**
