@@ -28,7 +28,7 @@
 | Lucius | `IMG_1304.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Celia | `IMG_1305.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Grenwald | `IMG_1311.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Kesso | `IMG_1313.jpeg` | Visually matched, user approval not separately recorded |
+| Kesso | `IMG_1313.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Bestar | `IMG_1314.jpeg` | Visually matched, user approval not separately recorded |
 | Ash | `IMG_1306.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Sivir | `IMG_1307.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
