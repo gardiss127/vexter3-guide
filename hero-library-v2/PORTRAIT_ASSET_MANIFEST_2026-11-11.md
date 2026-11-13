@@ -26,7 +26,7 @@
 | Joker | `IMG_1302.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Bella | `IMG_1303.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Lucius | `IMG_1304.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Celia | `IMG_1305.jpeg` | User confirmed filename |
+| Celia | `IMG_1305.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Grenwald | `IMG_1311.jpeg` | Visually matched, user approval not separately recorded |
 | Kesso | `IMG_1313.jpeg` | Visually matched, user approval not separately recorded |
 | Bestar | `IMG_1314.jpeg` | Visually matched, user approval not separately recorded |
