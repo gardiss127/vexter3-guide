@@ -1,0 +1,986 @@
+[
+  {
+    "name": "Arthur",
+    "faction": "Warrior",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Warrior frontline tank; Tenacity unlocks at eight hero stars.",
+    "skills": [
+      [
+        "Battle Shield",
+        "Deals physical damage to a single enemy."
+      ],
+      [
+        "Rock Solid",
+        "Creates a temporary shield based on Arthur’s HP."
+      ],
+      [
+        "Earthshattering",
+        "Deals area physical damage and reduces damage taken by nearby allies."
+      ],
+      [
+        "Strong Will",
+        "Passively improves damage reduction for allied tanks."
+      ],
+      [
+        "Tenacity",
+        "Improves combat stats after unlocking."
+      ]
+    ],
+    "synergy": "Prefer same-faction Warrior squads.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Prioritize survivability and defensive utility.",
+    "images": [],
+    "verification": "Core skill descriptions restored from earlier conversation; original screenshots not rechecked.",
+    "awakening": "Not currently available",
+    "exclusive_weapon": "None",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Marlena",
+    "faction": "Warrior",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Warrior damage dealer with Awakening progression.",
+    "skills": [
+      [
+        "Skybreaker Slash",
+        "Single-target Energy attack."
+      ],
+      [
+        "Crimson Bloom",
+        "Deals area Energy damage."
+      ],
+      [
+        "Peerless Blade",
+        "Launches multiple sword winds at enemies for substantial Energy damage."
+      ],
+      [
+        "War God’s Will",
+        "Passively increases Energy damage dealt."
+      ],
+      [
+        "Tenacity",
+        "Improves combat stats after unlocking."
+      ]
+    ],
+    "synergy": "Prioritize a full Warrior squad where practical.",
+    "gear": "Damage dealer: prioritize sword and gauntlet.",
+    "investment": "Review Awakening milestones at levels 1, 10, 20, 30 and 40.",
+    "images": [],
+    "awakening": "Available",
+    "exclusive_weapon": "None",
+    "verification": "Core skill descriptions restored from earlier conversation; original screenshots not rechecked.",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Daskal",
+    "faction": "Warrior",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Warrior tank with an exclusive weapon.",
+    "skills": [
+      [
+        "Battle Will",
+        "Single-target physical attack."
+      ],
+      [
+        "Deadly Pierce",
+        "Damages one enemy and restores Daskal’s health."
+      ],
+      [
+        "Bloodshed Defense",
+        "Grants defensive shields to allied heroes."
+      ],
+      [
+        "Resolute Fight",
+        "Provides protective shields to allied tanks at the start of battle."
+      ],
+      [
+        "Tenacity",
+        "Improves combat stats after unlocking."
+      ]
+    ],
+    "synergy": "Prefer Warrior squads.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Focus on tank durability and weapon milestones.",
+    "images": [],
+    "exclusive_weapon": "Crimson Greatsword",
+    "verification": "Core skill descriptions restored from earlier conversation; original screenshots not rechecked.",
+    "rarity": "UR",
+    "awakening": "Not currently available",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Zoya",
+    "faction": "Warrior",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Warrior damage dealer documented from earlier screenshots.",
+    "skills": [
+      [
+        "Dagger",
+        "Single-target Energy attack."
+      ],
+      [
+        "Mountain God Wrath",
+        "Creates a damaging whirlwind and increases Energy damage taken by enemies."
+      ],
+      [
+        "Forest Hunter",
+        "Throws daggers at multiple enemies."
+      ],
+      [
+        "Lady of the Forest",
+        "Improves critical-hit rate."
+      ],
+      [
+        "Tenacity",
+        "Improves combat stats after unlocking."
+      ]
+    ],
+    "synergy": "Prefer same-faction Warrior squads.",
+    "gear": "Damage dealer: prioritize sword and gauntlet.",
+    "investment": "Prioritize role-defining skills.",
+    "images": [],
+    "awakening": "Not currently available",
+    "exclusive_weapon": "None",
+    "verification": "Core skill descriptions restored from earlier conversation; original screenshots not rechecked.",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Harper",
+    "faction": "Warrior",
+    "role": "Support",
+    "position": "Back line",
+    "summary": "Warrior support documented from earlier screenshots.",
+    "skills": [
+      [
+        "Bubble",
+        "Single-target Energy attack."
+      ],
+      [
+        "Vitality Bubble",
+        "Provides protective support to allies."
+      ],
+      [
+        "War Flute Sound",
+        "Increases allied offensive power, with additional benefits through upgrades."
+      ],
+      [
+        "Warrior’s Anthem",
+        "Improves the offensive capabilities of allied Warriors."
+      ],
+      [
+        "Tenacity",
+        "Improves combat stats after unlocking."
+      ]
+    ],
+    "synergy": "Prefer same-faction Warrior squads.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Prioritize role-defining skills.",
+    "images": [],
+    "awakening": "Not currently available",
+    "exclusive_weapon": "None",
+    "verification": "Core skill descriptions restored from earlier conversation; original screenshots not rechecked.",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Shadow",
+    "faction": "Ranger",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Ranger frontline tank, not a support hero.",
+    "skills": [
+      [
+        "Smoke Cartridge",
+        "Throws smoke bombs to deal physical damage."
+      ],
+      [
+        "Shadow Strike",
+        "Deals area physical damage and reduces enemy DEF."
+      ],
+      [
+        "Shadow Hunt",
+        "Damages multiple enemies and weakens their Energy damage output."
+      ],
+      [
+        "Shadow Veil",
+        "Reduces Energy damage received by Shadow."
+      ],
+      [
+        "Tenacity",
+        "Improves combat stats after unlocking."
+      ]
+    ],
+    "synergy": "Best in Ranger squads, protecting Ranger damage dealers such as Cynthia.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Prioritize defensive utility and survivability.",
+    "images": [],
+    "awakening": "Not currently available",
+    "exclusive_weapon": "None",
+    "verification": "Core skill descriptions restored from earlier conversation; original screenshots not rechecked.",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Cynthia",
+    "faction": "Ranger",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Ranger damage dealer focused on Moonlight, critical hits and energy damage.",
+    "skills": [
+      [
+        "Moon Blade",
+        "Single-target energy attack that builds Moonlight; Ranger teammates increase stack capacity."
+      ],
+      [
+        "Lunar Hunt",
+        "Launches moon blades at randomly selected enemies."
+      ],
+      [
+        "Moonfall Dance",
+        "Critical-hit-focused burst attack with multi-target potential."
+      ],
+      [
+        "Moon’s Blessing",
+        "Improves critical-hit consistency."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support unlocked through hero progression."
+      ]
+    ],
+    "synergy": "Full Ranger squads maximize Moonlight capacity; pairs with Ranger tanks such as Shadow.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Invest in Moonlight generation and burst damage. Awakening expands stack generation, consumption, faction bonuses and critical damage.",
+    "images": [],
+    "awakening": "Available",
+    "exclusive_weapon": "None",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Louis",
+    "faction": "Ranger",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Defensive Ranger tank providing damage mitigation, healing and a once-per-battle survival effect.",
+    "skills": [
+      [
+        "Shackles",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Force Link",
+        "Protects high-defense allies from energy damage; upgrades expand coverage."
+      ],
+      [
+        "Cross Whip",
+        "Damages enemies, heals Louis and reduces incoming damage; upgrades extend ally protection."
+      ],
+      [
+        "Indomitable Spirit",
+        "Reduces incoming damage and prevents a fatal blow once per battle for a short period."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Frontline protection for Ranger damage dealers.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Prioritize protection and survival; weapon milestones improve damage resistance, undying duration and ally coverage.",
+    "images": [],
+    "exclusive_weapon": "Thorn Shackles",
+    "awakening": "Not currently available",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Bell",
+    "faction": "Ranger",
+    "role": "Support",
+    "position": "Back line",
+    "summary": "Backline Ranger healer and offensive buffer.",
+    "skills": [
+      [
+        "Musical Note",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Healing Sound",
+        "Heals the ally with the lowest HP."
+      ],
+      [
+        "Inspiration",
+        "Temporarily increases attack for the strongest attacking allies; upgrades extend coverage."
+      ],
+      [
+        "Battle Anthem",
+        "Increases attack for allied Rangers."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Best in Ranger squads; benefits high-ATK Ranger damage dealers.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Prioritize Healing Sound, Inspiration and Battle Anthem.",
+    "images": [],
+    "awakening": "Not currently available",
+    "exclusive_weapon": "None",
+    "rarity": "UR",
+    "specialty": "Healer / Support",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Ulfrid",
+    "faction": "Warlock",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Frontline Warlock tank specializing in damage reflection and teamwide protection.",
+    "skills": [
+      [
+        "Sharp Claw",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Lunar Howl",
+        "Enters Berserk and reflects incoming damage."
+      ],
+      [
+        "Throat Bite",
+        "Single-target physical attack that reduces damage taken by the allied team."
+      ],
+      [
+        "Wolf Bloodline",
+        "Passively reduces damage taken."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Best in a FULL Warlock squad; protects Annie, Nicole and other Warlock backliners.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Prioritize Lunar Howl, Throat Bite and Wolf Bloodline; weapon upgrades strengthen survival and protection.",
+    "images": [],
+    "exclusive_weapon": "Wolven Claw",
+    "awakening": "Not currently available",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Annie",
+    "faction": "Warlock",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Burn and Scorch specialist who deals area energy damage.",
+    "skills": [
+      [
+        "Candy",
+        "Single-target energy auto attack."
+      ],
+      [
+        "Surprise Gift",
+        "Area energy damage that applies Burn."
+      ],
+      [
+        "Candy Jar",
+        "Targets high-attack enemies, applies Burn and exploits burning targets."
+      ],
+      [
+        "Charged Gummies",
+        "Increases energy damage."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Full Warlock squad improves Scorch stacking; works with Nicole and Ulfrid.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Awakening increases Burn application, builds and consumes Scorch, buffs Warlocks and improves damage against Scorched targets.",
+    "images": [],
+    "awakening": "Available",
+    "exclusive_weapon": "None",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Billy",
+    "faction": "Warlock",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Warlock defensive tank protecting damage dealers from energy damage and control.",
+    "skills": [
+      [
+        "Wooden Frame",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Fate’s Thread",
+        "Attacks an enemy and reduces energy damage received by high-ATK allies."
+      ],
+      [
+        "Truth and Lies",
+        "Area physical attack that grants stun resistance to high-ATK allies and protects allied defense heroes."
+      ],
+      [
+        "Puppet",
+        "Reduces damage taken, with extra protection against energy damage through promotion."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Full Warlock squad with high-attack backliners.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Focus on Fate’s Thread, Truth and Lies and Puppet.",
+    "images": [],
+    "awakening": "Not currently available",
+    "exclusive_weapon": "None",
+    "rarity": "UR",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Nicole",
+    "faction": "Warlock",
+    "role": "Support",
+    "position": "Back line",
+    "summary": "Warlock healer with faction buffs and Burn synergy.",
+    "skills": [
+      [
+        "Ember Dust",
+        "Physical attack that also heals the lowest-HP ally."
+      ],
+      [
+        "Heartwarming Flame",
+        "Heals the two lowest-HP allies."
+      ],
+      [
+        "Inferno Array",
+        "Hits all enemies and deals extra damage to burning targets."
+      ],
+      [
+        "Flame Soul Power",
+        "Increases allied Warlock attack; progression adds attack-speed utility."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Full Warlock squads; especially Annie for Burn synergy and Ulfrid/Billy for frontline protection.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Prioritize healing and Flame Soul Power; Inferno Array benefits from Burn.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "UR",
+    "awakening": "Not currently available",
+    "specialty": "Healer / Support",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Joker",
+    "faction": "Warlock",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Warlock finisher specializing in low-HP targets and critical hits.",
+    "skills": [
+      [
+        "Deal Cards",
+        "Targets the enemy with the lowest HP."
+      ],
+      [
+        "Hearthunt Red Card",
+        "Attacks random enemies; later promotion can apply Burn."
+      ],
+      [
+        "Joker Ace",
+        "Targets weakened enemies and can gain another target."
+      ],
+      [
+        "Frenzied Emotion",
+        "Increases critical-hit rate."
+      ],
+      [
+        "Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Full Warlock squads; benefits from Nicole buffs and can contribute Burn synergy with Annie when upgraded.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Focus on Joker Ace, Hearthunt Red Card and critical-hit utility.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "UR",
+    "awakening": "Not currently available",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Claire",
+    "faction": "Warrior",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Warrior damage dealer specialized in monster encounters.",
+    "skills": [
+      [
+        "Adv. Holy Banner",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Adv. Rain of Arrows",
+        "Rapid concentrated single-target physical attacks."
+      ],
+      [
+        "Adv. Celestial Judgment",
+        "Area physical attack and temporary monster-damage bonus."
+      ],
+      [
+        "Adv. Call of the Brave",
+        "Improves monster damage for the highest-ATK allied Warriors."
+      ],
+      [
+        "Adv. Tenacity",
+        "General stat and cooldown support."
+      ]
+    ],
+    "synergy": "Warrior monster-hunting squads with strong attackers.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Prioritize monster-damage utility and primary damage skills.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "UR",
+    "awakening": "Not currently available",
+    "specialty": "Physical damage dealer / Monster specialist",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Bella",
+    "faction": "Warrior",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Defensive Warrior frontline specialist for monster encounters.",
+    "skills": [
+      [
+        "Swing",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Crimson Prayer",
+        "Temporarily reduces monster damage taken."
+      ],
+      [
+        "Bloody Requiem",
+        "Area physical damage and temporary enemy attack reduction."
+      ],
+      [
+        "Purity",
+        "Passively reduces monster damage taken."
+      ],
+      [
+        "Tenacity",
+        "General stat support."
+      ]
+    ],
+    "synergy": "Warrior PvE squads needing survival.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Focus on Crimson Prayer and Purity for monster defense.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Tank / Monster defense",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Lucius",
+    "faction": "Warrior",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Warrior frontline combining single-target offense and monster resistance.",
+    "skills": [
+      [
+        "Battle Axe",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Decapitation",
+        "Heavy single-target physical attack."
+      ],
+      [
+        "Whirlwind Cut",
+        "Physical attack on an enemy ahead; upgrades include stun utility."
+      ],
+      [
+        "God of War Blessing",
+        "Passively reduces damage from monsters."
+      ],
+      [
+        "Tenacity",
+        "General stat support."
+      ]
+    ],
+    "synergy": "Warrior PvE squads.",
+    "gear": "Tank: prioritize armor and boots.",
+    "investment": "Balance offensive skills with monster defense; do not assume monster reduction works in PvP.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Tank / Single-target offense",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Celia",
+    "faction": "Warrior",
+    "role": "Support",
+    "position": "Back line",
+    "summary": "Warrior monster-hunting support who increases resource rewards.",
+    "skills": [
+      [
+        "Flying Blade",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Deadly Lotus",
+        "Physical damage to multiple random enemies."
+      ],
+      [
+        "Ricochet Blade",
+        "Multi-target physical ultimate."
+      ],
+      [
+        "Ultimate Hunt",
+        "Increases monster damage and resources earned from eligible monster kills."
+      ],
+      [
+        "Tenacity",
+        "General stat support."
+      ]
+    ],
+    "synergy": "Warrior PvE farming squads.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Ultimate Hunt is the defining investment for eligible resource and elite monsters.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Support / Monster farming",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Ash",
+    "faction": "Ranger",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Ranger physical attacker with monster-damage support.",
+    "skills": [
+      [
+        "Precision Shot",
+        "Single-target physical auto attack."
+      ],
+      [
+        "One Stone Two Birds",
+        "Attacks two random enemies."
+      ],
+      [
+        "Eagle Spirit Hunt",
+        "Strong single-target physical attack."
+      ],
+      [
+        "Focus",
+        "Increases monster damage for the two highest-ATK Rangers."
+      ],
+      [
+        "Tenacity",
+        "General stat support."
+      ]
+    ],
+    "synergy": "Ranger monster-hunting squads with multiple high-attack Rangers.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Focus is particularly valuable for monster teams.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Physical damage dealer / Monster support",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Sivir",
+    "faction": "Warrior",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Warrior attacker with multi-target offense and attack buffs.",
+    "skills": [
+      [
+        "Hunt",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Shield Strike",
+        "Single-target physical attack."
+      ],
+      [
+        "Wild Pursuit",
+        "Attacks multiple random enemies; progression adds a target."
+      ],
+      [
+        "Hunter Bloodline",
+        "Increases attack during combat."
+      ],
+      [
+        "Tenacity",
+        "General stat support."
+      ]
+    ],
+    "synergy": "Same-faction Warrior squads.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Prioritize Wild Pursuit and Hunter Bloodline.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Griffith",
+    "faction": "Ranger",
+    "role": "Tank",
+    "position": "Front line",
+    "summary": "Ranger defensive support specializing in monster resistance.",
+    "skills": [
+      [
+        "Serpent Flute",
+        "Spirit-snake auto attack; in-game damage label and description conflict."
+      ],
+      [
+        "Venomous Bite",
+        "Single-target energy attack."
+      ],
+      [
+        "Serpent Veil",
+        "Reduces monster damage taken by nearby allies."
+      ],
+      [
+        "Serpent Resonance",
+        "Passively reduces monster damage taken."
+      ],
+      [
+        "Tenacity",
+        "General stat support."
+      ]
+    ],
+    "synergy": "Ranger PvE squads; Serpent Veil protects nearby allies.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Prioritize Serpent Veil and Serpent Resonance for monster encounters.",
+    "images": [],
+    "verification": "Serpent Flute damage type conflicts in the original screenshots; awakening and weapon not confirmed.",
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Defensive support / Monster resistance",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Hastar",
+    "faction": "Warlock",
+    "role": "Tank",
+    "position": "Back line",
+    "summary": "Warlock crowd-control attacker with emergency self-protection.",
+    "skills": [
+      [
+        "Lash",
+        "Single-target energy auto attack."
+      ],
+      [
+        "Undercurrent",
+        "Single-target energy attack that stuns."
+      ],
+      [
+        "Wrath of Old Gods",
+        "Area energy attack targeting enemies in front."
+      ],
+      [
+        "Scorn Guard",
+        "Grants a protective shield once when health first falls low."
+      ],
+      [
+        "Tenacity",
+        "General stat support."
+      ]
+    ],
+    "synergy": "Warlock squads; positioning matters for the forward-facing ultimate.",
+    "gear": "Support: prioritize survival and key utility.",
+    "investment": "Prioritize control and area damage; Scorn Guard supports survival.",
+    "images": [],
+    "verification": "Awakening and exclusive weapon not confirmed.",
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Control / Energy damage",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Stellar",
+    "faction": "Warlock",
+    "role": "Support",
+    "position": "Back line",
+    "summary": "Supports Warlock allies against monsters while dealing area damage and providing a final emergency heal.",
+    "skills": [
+      [
+        "Meteorite",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Destructive Comet",
+        "Area physical damage; increases the damage monsters take."
+      ],
+      [
+        "Wishing Star",
+        "Increases monster damage for the two strongest Warlock allies."
+      ],
+      [
+        "Final Starlight",
+        "When defeated, heals the ally with the lowest health."
+      ],
+      [
+        "Tenacity",
+        "Provides a general attack, health and defense bonus."
+      ]
+    ],
+    "synergy": "Best suited to monster-focused teams with multiple Warlock allies. Her strongest utility comes from improving allied monster damage.",
+    "gear": "Support-focused survivability; consider defensive equipment after core damage dealers are equipped.",
+    "investment": "Prioritize Wishing Star for Warlock monster teams, then Destructive Comet. Her emergency heal is a secondary benefit.",
+    "images": [],
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Support / monster damage",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Grenwald",
+    "faction": "Warlock",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Deals both single-target and area energy damage, with a passive boost against monsters.",
+    "skills": [
+      [
+        "Cast Spell",
+        "Single-target energy auto attack."
+      ],
+      [
+        "Heartbreaker Spell",
+        "Heavy single-target energy attack."
+      ],
+      [
+        "Soul Capture Spell",
+        "Area energy damage; upgrades can also increase his attack temporarily."
+      ],
+      [
+        "Exorcism Spell",
+        "Increases damage dealt to monsters."
+      ],
+      [
+        "Tenacity",
+        "General stat bonus, locked until the required hero progression."
+      ]
+    ],
+    "synergy": "Fits monster-focused Warlock lineups that benefit from consistent energy damage and area attacks.",
+    "gear": "Damage dealer: prioritize sword, then gauntlet.",
+    "investment": "Focus on Soul Capture Spell for area damage and Exorcism Spell for monster content; Heartbreaker Spell supports single-target damage.",
+    "images": [],
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Energy damage / monster specialist",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Kesso",
+    "faction": "Warrior",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Attacks with thrown spears and summons a war eagle to assist in combat.",
+    "skills": [
+      [
+        "Spear Throw",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Hunting Skills",
+        "Throws spears at multiple random enemies; later progression adds an additional shot."
+      ],
+      [
+        "Summon Warhawk",
+        "Summons an eagle named Rex that attacks for a limited time and inherits combat stats."
+      ],
+      [
+        "Wild Survival",
+        "Temporarily increases attack the first time Kesso drops to low health."
+      ],
+      [
+        "Tenacity",
+        "General stat bonus, locked until the required hero progression."
+      ]
+    ],
+    "synergy": "Works as a physical damage dealer with summon-based pressure. The low-health passive is a fallback, not a reason to place him in danger.",
+    "gear": "Damage dealer: prioritize sword, then gauntlet.",
+    "investment": "Summon Warhawk and Hunting Skills define his damage pattern; upgrade them before his basic attack.",
+    "images": [],
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Physical damage / summon",
+    "review_status": "Approved by user, 2026-11-05"
+  },
+  {
+    "name": "Bestar",
+    "faction": "Ranger",
+    "role": "Damage Dealer",
+    "position": "Back line",
+    "summary": "Applies Bleed through cat summons and deals increased damage to enemies already bleeding.",
+    "skills": [
+      [
+        "Cat Bell",
+        "Single-target physical auto attack."
+      ],
+      [
+        "Black Cat Messenger",
+        "Summons a black cat to attack one enemy and apply Bleed."
+      ],
+      [
+        "Sacred Flame Kitty",
+        "Summons ghost cats to damage enemies in an area and apply Bleed."
+      ],
+      [
+        "Bloodstain Tracker",
+        "Increases damage against bleeding enemies."
+      ],
+      [
+        "Tenacity",
+        "General stat bonus, locked until the required hero progression."
+      ]
+    ],
+    "synergy": "Suggested Ranger lineup: Harper and Griffith in front; Cynthia, Bestar and Shadow in back. Bleed supports Bloodstain Tracker.",
+    "gear": "Damage dealer: prioritize sword, then gauntlet.",
+    "investment": "Sacred Flame Kitty, then Black Cat Messenger, Bloodstain Tracker, and Cat Bell.",
+    "images": [
+      "IMG_1275.jpeg",
+      "IMG_1276.jpeg",
+      "IMG_1277.jpeg",
+      "IMG_1278.jpeg",
+      "IMG_1279.jpeg",
+      "IMG_1281.jpeg"
+    ],
+    "rarity": "SSR",
+    "awakening": "Not currently available",
+    "specialty": "Physical damage / Bleed",
+    "review_status": "Approved by user, 2026-11-05"
+  }
+]

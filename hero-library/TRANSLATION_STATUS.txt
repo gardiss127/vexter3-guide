@@ -1,0 +1,4 @@
+French profile translation coverage: 26/26 heroes.
+Translated: summary, five skill descriptions, synergy, gear and investment guidance.
+Skill names and hero names intentionally remain in English to match the game.
+Original screenshot verification is still pending; translation does not establish accuracy.

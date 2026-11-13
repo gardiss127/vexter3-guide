@@ -1,0 +1,106 @@
+{
+  "Arthur": {
+    "source": "IMG_1099",
+    "portrait": "arthur.jpg"
+  },
+  "Marlena": {
+    "source": "IMG_1106",
+    "portrait": "marlena.jpg"
+  },
+  "Daskal": {
+    "source": "IMG_1116",
+    "portrait": "daskal.jpg"
+  },
+  "Zoya": {
+    "source": "IMG_1125",
+    "portrait": "zoya.jpg"
+  },
+  "Harper": {
+    "source": "IMG_1131",
+    "portrait": "harper.jpg"
+  },
+  "Shadow": {
+    "source": "IMG_1137",
+    "portrait": "shadow.jpg"
+  },
+  "Cynthia": {
+    "source": "IMG_1143",
+    "portrait": "cynthia.jpg"
+  },
+  "Louis": {
+    "source": "IMG_1154",
+    "portrait": "louis.jpg"
+  },
+  "Bell": {
+    "source": "IMG_1163",
+    "portrait": "bell.jpg"
+  },
+  "Ulfrid": {
+    "source": "IMG_1169",
+    "portrait": "ulfrid.jpg"
+  },
+  "Annie": {
+    "source": "IMG_1178",
+    "portrait": "annie.jpg"
+  },
+  "Billy": {
+    "source": "IMG_1190",
+    "portrait": "billy.jpg"
+  },
+  "Nicole": {
+    "source": "IMG_1196",
+    "portrait": "nicole.jpg"
+  },
+  "Joker": {
+    "source": "IMG_1202",
+    "portrait": "joker.jpg"
+  },
+  "Claire": {
+    "source": "IMG_1208",
+    "portrait": "claire.jpg"
+  },
+  "Bella": {
+    "source": "IMG_1214",
+    "portrait": "bella.jpg"
+  },
+  "Lucius": {
+    "source": "IMG_1220",
+    "portrait": "lucius.jpg"
+  },
+  "Celia": {
+    "source": "IMG_1226",
+    "portrait": "celia.jpg"
+  },
+  "Ash": {
+    "source": "IMG_1232",
+    "portrait": "ash.jpg"
+  },
+  "Sivir": {
+    "source": "IMG_1238",
+    "portrait": "sivir.jpg"
+  },
+  "Griffith": {
+    "source": "IMG_1244",
+    "portrait": "griffith.jpg"
+  },
+  "Hastar": {
+    "source": "IMG_1250",
+    "portrait": "hastar.jpg"
+  },
+  "Stellar": {
+    "source": "IMG_1257",
+    "portrait": "stellar.jpg"
+  },
+  "Grenwald": {
+    "source": "IMG_1262",
+    "portrait": "grenwald.jpg"
+  },
+  "Kesso": {
+    "source": "IMG_1268",
+    "portrait": "kesso.jpg"
+  },
+  "Bestar": {
+    "source": "IMG_1275",
+    "portrait": "bestar.jpg"
+  }
+}
