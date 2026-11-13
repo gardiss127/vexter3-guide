@@ -1,14 +1,12 @@
 # Annie — UR Warlock DPS
 
-**Status:** APPROVED — user confirmed final written profile ("Annie looks good")
 **Rarity:** UR
 **Faction:** Warlock
 **Role:** DPS
 **Position:** Backline
 **Damage type:** Energy
-**Exclusive Weapon:** None (confirmed)
+**Exclusive Weapon:** None
 **Awakening:** Available; levels 1, 10, 20, 30, and 40 documented
-**Portrait:** Deferred until final portrait phase.
 
 ## Character overview
 Annie is a backline Warlock DPS specializing in Energy Damage, damage over time, and targeting dangerous enemies. Her abilities apply Burn, while Awakening introduces Scorch, a stacking damage-over-time effect that amplifies several of her attacks. Allied Warlock count influences her Scorch stack capacity, rewarding a full Warlock squad.
@@ -32,13 +30,13 @@ Annie is a backline Warlock DPS specializing in Energy Damage, damage over time,
 **UR Sword → UR Gauntlet.** Prioritize offensive equipment to increase Annie's Energy Damage and attack effectiveness.
 
 ## Recommended team composition
-- **Frontline:** Ulfrid (Warlock Tank) + second Warlock Tank (to be identified as additional heroes are reviewed).
-- **Backline:** Annie (Warlock DPS) + second Warlock DPS + Warlock Support (specific teammates to be identified later).
+- **Frontline:** Ulfrid (Warlock Tank) + second Warlock Tank.
+- **Backline:** Annie (Warlock DPS) + second Warlock DPS + Warlock Support.
 
 Ulfrid provides frontline protection while Annie supplies Burn and Scorch damage. A full Warlock squad increases Scorch stacking potential and benefits from Annie's faction-wide Awakening enhancement.
 
 ## Awakening
-**Available.** Five milestones confirmed from user-supplied screenshots:
+**Available.** Awakening milestones:
 
 - **Awaken Level 1 — Candy (Burn and Scorch):** Candy gains a chance to inflict Burn. Whenever the team successfully applies Burn, Annie adds a Scorch stack to the target. Scorch deals damage over time, with maximum stack count based on the number of allied Warlock heroes.
 - **Awaken Level 10 — Surprise Gift (Scorch Synergy):** Increases Surprise Gift damage, with additional damage for each Scorch stack on the target.
@@ -48,11 +46,3 @@ Ulfrid provides frontline protection while Annie supplies Burn and Scorch damage
 
 ## Exclusive Weapon
 **None.** Annie has Awakening but no Exclusive Weapon.
-
-## Approval provenance
-Based on five skill screenshots and five Awakening milestone screenshots supplied by the user. User approved this complete qualitative written profile and explicitly requested immediate save to the fresh-start branch. No exact level-dependent damage percentages; no Investment Notes. Portrait deferred until the final phase.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1299.jpeg`](../../IMG_1299.jpeg)  
-**Asset location:** `IMG_1299.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
