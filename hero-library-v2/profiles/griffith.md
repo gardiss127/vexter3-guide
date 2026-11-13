@@ -5,7 +5,6 @@
 **Role:** Tank
 **Position:** Frontline
 **Damage Type:** Energy (offensive skills)
-**Status:** APPROVED — user confirmed final written profile on 2026-11-11 ("Looks good").
 
 ## Character overview
 Griffith is a defensive Ranger hero specializing in reducing damage taken from monsters. His abilities combine single-target attacks with protective effects that help nearby allies survive longer. His greatest strength is PvE survivability, making him useful for monster encounters where keeping the squad alive is a priority.
@@ -35,12 +34,7 @@ Tenacity is a fixed support skill and does not require normal skill upgrades.
 This provides two frontline tanks, two damage dealers, and one support. Griffith is particularly suited to monster-focused encounters because of his defensive abilities.
 
 ## Exclusive Weapon
-None — user confirmed.
+None.
 
 ## Awakening
-Not available — user confirmed.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1308.jpeg`](../../IMG_1308.jpeg)  
-**Asset location:** `IMG_1308.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+Not currently available.
