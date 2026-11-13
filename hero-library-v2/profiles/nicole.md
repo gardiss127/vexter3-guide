@@ -1,6 +1,5 @@
 # Nicole — UR Warlock Support
 
-**Status:** APPROVED by user, 2026-11-11
 **Faction:** Warlock
 **Rarity:** UR
 **Role:** Support
@@ -52,24 +51,15 @@ As a backline support, Nicole benefits from defensive gear that helps her surviv
 | Frontline | Ulfrid | Warlock Tank |
 | Frontline | Billy | Warlock Tank |
 | Backline | Annie | Warlock DPS |
-| Backline | Warlock DPS (to be determined) | DPS |
+| Backline | Second Warlock DPS | DPS |
 | Backline | Nicole | Warlock Support |
 
 **Why this works:** Ulfrid and Billy provide frontline protection, Annie supplies Burn-related damage, and Nicole supports the team with healing and Warlock-wide offensive buffs. Her ultimate can capitalize on Annie's Burn effects.
 
 ## Exclusive Weapon
 
-**None.** Confirmed by user.
+**None.**
 
 ## Awakening
 
-**Not available.** Confirmed by user.
-
-## Approval Provenance
-
-User reviewed the complete written profile and approved it with "Looks good." Saved immediately to the fresh-start GitHub branch.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1301.jpeg`](../../IMG_1301.jpeg)  
-**Asset location:** `IMG_1301.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+**Not currently available.**
