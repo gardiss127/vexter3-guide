@@ -5,7 +5,6 @@
 **Role:** DPS
 **Position:** Backline
 **Damage Type:** Physical
-**Status:** APPROVED — user confirmed final written profile on 2026-11-11.
 
 ## Character Overview
 Sivir is a Physical DPS hero who combines single-target attacks with multi-target damage. Her passive skill, Hunter Bloodline, increases her ATK during combat, strengthening her offensive abilities. She is best suited to a Warrior squad where frontline tanks protect her while she deals damage from the backline.
@@ -35,15 +34,7 @@ Tenacity is a fixed support skill and does not require normal skill upgrades.
 Example Warrior composition with two tanks, two damage dealers, and one support.
 
 ## Exclusive Weapon
-None — confirmed by user.
+None.
 
 ## Awakening
-Not available — confirmed by user.
-
-## Approval Provenance
-Written profile reviewed against five user-provided skill screenshots and approved by user (“Looks good”) on 2026-11-11. Exact variable damage percentages and level-dependent statistics intentionally omitted.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1307.jpeg`](../../IMG_1307.jpeg)  
-**Asset location:** `IMG_1307.jpeg` (repository root-relative). User-confirmed portrait assignment on 2026-11-11. Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
+Not currently available.
