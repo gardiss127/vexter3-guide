@@ -32,7 +32,7 @@
 | Bestar | `IMG_1314.jpeg` | Visually matched, user approval not separately recorded |
 | Ash | `IMG_1306.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Sivir | `IMG_1307.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Griffith | `IMG_1308.jpeg` | User confirmed filename |
+| Griffith | `IMG_1308.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Hastar | `IMG_1309.jpeg` | User confirmed filename |
 | Stellar | `IMG_1310.jpeg` | User confirmed filename |
 
