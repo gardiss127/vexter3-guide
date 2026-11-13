@@ -23,7 +23,7 @@
 | Annie | `IMG_1299.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Billy | `IMG_1300.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Nicole | `IMG_1301.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Joker | `IMG_1302.jpeg` | User confirmed filename |
+| Joker | `IMG_1302.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Bella | `IMG_1303.jpeg` | User confirmed filename |
 | Lucius | `IMG_1304.jpeg` | User confirmed filename |
 | Celia | `IMG_1305.jpeg` | User confirmed filename |
