@@ -1,10 +1,8 @@
 # Red Lady — UR Ranger DPS
 
-**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Red Lady looks good")
 **Faction:** Ranger
 **Role:** DPS / priority-target burst
 **Position:** Backline
-**Portrait:** Original user-supplied image IMG_1296(1).jpeg; must attach exact image asset to V2 before website integration.
 
 ## Character overview
 Backline Ranger DPS specializing in Energy Damage, priority-target burst, increased damage taken debuffs, and a chance to stun dangerous enemy damage dealers.
@@ -31,11 +29,3 @@ Backline Ranger DPS specializing in Energy Damage, priority-target burst, increa
 
 **Exclusive Weapon:** None.
 **Awakening:** Not currently available.
-
-## Approval provenance
-User explicitly confirmed no exclusive weapon and approved the final profile. No Investment Notes section.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1296.jpeg`](../../IMG_1296.jpeg)  
-**Asset location:** `IMG_1296.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
