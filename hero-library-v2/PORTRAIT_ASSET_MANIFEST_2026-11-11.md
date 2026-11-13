@@ -20,7 +20,7 @@
 | Red Lady | `IMG_1296.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Claire | `IMG_1297.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Ulfrid | `IMG_1298.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Annie | `IMG_1299.jpeg` | User confirmed filename |
+| Annie | `IMG_1299.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Billy | `IMG_1300.jpeg` | User confirmed filename |
 | Nicole | `IMG_1301.jpeg` | User confirmed filename |
 | Joker | `IMG_1302.jpeg` | User confirmed filename |
