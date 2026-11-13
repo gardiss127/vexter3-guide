@@ -8,7 +8,7 @@
 
 | Hero | Existing original JPEG | Basis |
 |---|---|---|
-| Arthur | `hero-library-v2/portrait-approvals/IMG_1286.jpeg` | Previously approved, visually verified |
+| Arthur | `hero-library-v2/portrait-approvals/IMG_1286.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Marlena | `IMG_1287.jpeg` | Previously approved, visually verified |
 | Daskal | `IMG_1289.jpeg` | Previously approved, visually verified |
 | Zoya | `IMG_1290.jpeg` | Previously approved, visually verified |
