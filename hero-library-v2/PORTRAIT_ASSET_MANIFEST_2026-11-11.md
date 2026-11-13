@@ -33,7 +33,7 @@
 | Ash | `IMG_1306.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Sivir | `IMG_1307.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Griffith | `IMG_1308.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Hastar | `IMG_1309.jpeg` | User confirmed filename |
+| Hastar | `IMG_1309.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Stellar | `IMG_1310.jpeg` | User confirmed filename |
 
 ## Pending explicit confirmation (0)
