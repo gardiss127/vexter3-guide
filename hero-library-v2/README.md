@@ -1,6 +1,6 @@
 # Hero Library V2 — clean rebuild
 
-**Current build: 27 saved hero profiles, 27 mapped original portraits, and a standalone review webpage (`index.html`).**
+**Current build: 27 saved hero profiles, 27 individually approved original portraits, and a standalone review webpage (`index.html`) with card grid, filters, and clickable profiles.**
 
 This is the isolated working directory for the Hero Library rebuild on `hero-library-fresh-start-2026-11-11`. All ten written profiles were reviewed one by one and their final approval was recorded in their individual Markdown files.
 
@@ -25,7 +25,7 @@ Finish reviewing, approving, and immediately saving **all written hero profiles*
 ## Current preview status
 - All 27 original portraits were already uploaded by the user and are linked to the corresponding saved profiles; see [portrait manifest](PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
 - A standalone [Hero Library review webpage](index.html) is committed to this isolated branch, with clickable cards, search, filters, and profile views.
-- The review webpage is **not yet deployed or browser-tested**. The GitHub file viewer shows source, not the rendered webpage.
+- The review webpage has been updated for all 27 approved portraits, with uncropped `object-fit: contain` artwork, clickable profile cards, search and filters, numbered lists, team tables, and keyboard dialog handling. It is **not yet deployed or browser-tested**. The GitHub file viewer shows source, not the rendered webpage.
 - Website integration and publication have not been authorized.
 - Legacy `hero-library/` content and old preview ZIPs are not approved sources for V2.
 
