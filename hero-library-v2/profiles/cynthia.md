@@ -1,11 +1,8 @@
-# Cynthia — UR Ranger DPS
+# Cynthia
 
-**Status:** APPROVED — user reconfirmed restored written profile on 2026-11-11 ("Looks good"); Investment Notes removed
 **Faction:** Ranger
 **Role:** DPS
 **Position:** Backline
-**Portrait approval:** APPROVED by user on 2026-11-11 for exact cropped image `IMG_1293(4).jpeg`, showing Cynthia with long white hair, pointed elf ears, blue earrings, silver-white armor, blue gemstones, and crescent-moon motifs. Preserve the original crop without alteration or substitution. **Image binary not yet committed to GitHub.**
-**Portrait:** Original user-supplied portrait (white-haired elf with crescent-moon armor) from conversation. Original image asset must be attached before website integration; do not substitute.
 
 ## Character overview
 Ranger damage dealer who builds Moonlight stacks and combines offensive pressure with critical strikes.
@@ -41,10 +38,3 @@ Ranger damage dealer who builds Moonlight stacks and combines offensive pressure
 
 **Exclusive Weapon:** None.
 
-## Approval provenance
-User approved original profile and explicitly approved removal of Investment Notes. Exact skill priority and Awakening effects recovered from earlier approved review and restored on 2026-11-11; user reconfirmed the restored profile with "Looks good". No Investment Notes section.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1293.jpeg`](../../IMG_1293.jpeg)  
-**Asset location:** `IMG_1293.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
