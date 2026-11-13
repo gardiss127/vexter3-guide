@@ -1,12 +1,9 @@
-# Shadow — UR Ranger Tank
+# Shadow
 
-**Status:** APPROVED — user reconfirmed final written profile on 2026-11-11 ("Shadow looks good")
 **Faction:** Ranger
 **Role:** Tank
 **Position:** Frontline
 **Damage type:** Physical
-**Portrait approval:** APPROVED by user on 2026-11-11 for exact cropped image `IMG_1292(4).jpeg`, depicting Shadow in a dark hood and beak-shaped metal mask with glowing purple eyes, layered armor and a purple shoulder gemstone. Preserve the original crop without alteration or substitution. **Image binary not yet committed to GitHub.**
-**Portrait:** Use only the exact original user-supplied portrait from the approval conversation; portrait asset not yet verified in V2. Do not substitute legacy or generated art.
 
 ## Character overview
 Shadow is a frontline Ranger Tank who contributes area attacks, enemy defense reduction, and damage mitigation, including protection against Energy damage.
@@ -36,10 +33,3 @@ Shadow is a frontline Ranger Tank who contributes area attacks, enemy defense re
 **Exclusive Weapon:** None.
 **Awakening:** Not currently available.
 
-## Approval provenance
-Recovered from the previously user-approved V2 Shadow review on 2026-11-11. User confirmed no Exclusive Weapon and no Awakening. Do not display variable hero level or ATK values. No Investment Notes section.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1292.jpeg`](../../IMG_1292.jpeg)  
-**Asset location:** `IMG_1292.jpeg` (repository root-relative). Preserve original uploaded image without cropping, replacement, or modification. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
