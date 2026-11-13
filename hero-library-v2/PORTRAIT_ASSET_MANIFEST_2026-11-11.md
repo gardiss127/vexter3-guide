@@ -10,7 +10,7 @@
 |---|---|---|
 | Arthur | `hero-library-v2/portrait-approvals/IMG_1286.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Marlena | `IMG_1287.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Daskal | `IMG_1289.jpeg` | Previously approved, visually verified |
+| Daskal | `IMG_1289.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Zoya | `IMG_1290.jpeg` | Previously approved, visually verified |
 | Harper | `IMG_1291.jpeg` | Previously approved, visually verified |
 | Shadow | `IMG_1292.jpeg` | Previously approved, visually verified |
