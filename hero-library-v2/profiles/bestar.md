@@ -6,8 +6,7 @@
 **Position:** Backline
 **Damage Type:** Physical
 **Exclusive Weapon:** None
-**Awakening:** Not available
-**Status:** APPROVED by user, 2026-11-11
+**Awakening:** Not currently available
 
 ## Character overview
 Bestar is a Physical DPS hero specializing in Bleed damage and sustained damage against bleeding enemies. She summons black cats and spectral cats to attack opponents, applying Bleed effects that deal damage over time. Her passive increases damage against bleeding enemies, making her effective alongside other Bleed-inflicting heroes.
@@ -41,12 +40,3 @@ This provides two tanks, support from Bell, and two damage dealers. Bestar and R
 - **Area damage:** Sacred Flame Kitty damages and applies Bleed to multiple enemies.
 - **Damage over time:** Bleed continues after the initial hit.
 - **Positioning:** Keep Bestar protected in the backline.
-
-## Availability
-- **Exclusive Weapon:** None.
-- **Awakening:** Not available.
-
-## Portrait asset reference
-
-**Original uploaded JPEG:** [`IMG_1314.jpeg`](../../IMG_1314.jpeg)  
-**Asset location:** `IMG_1314.jpeg` (repository root-relative). Preserve original uploaded image unchanged. See [portrait asset manifest](../PORTRAIT_ASSET_MANIFEST_2026-11-11.md).
