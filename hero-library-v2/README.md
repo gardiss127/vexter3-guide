@@ -30,3 +30,7 @@ Finish reviewing, approving, and immediately saving **all written hero profiles*
 - Legacy `hero-library/` content and old preview ZIPs are not approved sources for V2.
 
 **Do not change `main` or the live website without explicit user approval.**
+
+## Final user approval — 2026-11-12
+
+**Status: COMPLETE / USER-APPROVED / HOLD FOR FUTURE INTEGRATION.** The user reviewed the separate Hero Library V2 preview and confirmed they are happy with the result. Treat the 27 approved hero profiles, 27 original portraits, card layout, and functionality as the completed checkpoint. No additional edits are requested. **Do not merge into `main`, modify the existing live website, or publish/integrate V2 until the user explicitly authorizes that step.**
