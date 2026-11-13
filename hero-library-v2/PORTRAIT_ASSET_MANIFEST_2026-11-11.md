@@ -18,7 +18,7 @@
 | Louis | `IMG_1294.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Bell | `IMG_1295.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Red Lady | `IMG_1296.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
-| Claire | `IMG_1297.jpeg` | User confirmed filename |
+| Claire | `IMG_1297.jpeg` | User reconfirmed correct portrait and approved original uncropped display (`object-fit: contain`), 2026-11-12 |
 | Ulfrid | `IMG_1298.jpeg` | User confirmed filename |
 | Annie | `IMG_1299.jpeg` | User confirmed filename |
 | Billy | `IMG_1300.jpeg` | User confirmed filename |
