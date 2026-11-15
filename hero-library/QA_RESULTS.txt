@@ -1,0 +1,11 @@
+Browser interaction test (Chromium, simulated fetch due local-network restrictions):
+PASS: 26 hero cards rendered.
+PASS: Search Annie yields one card.
+PASS: Role filter Tank yields 10 cards.
+PASS: Warlock faction filter yields 8 cards.
+PASS: French toggle changes title.
+PASS: French search for Brûlure finds Annie.
+PASS: Annie profile displays five skills in French and English.
+PASS: No JavaScript page errors in this test.
+NOT TESTED: Network hosting, persistence across reload, screenshots on all devices, original game screenshot accuracy, French translation editorial quality.
+KNOWN LIMITATION: Individual awakening effects are not yet displayed in full; profiles show availability summaries. This test does not establish factual accuracy.

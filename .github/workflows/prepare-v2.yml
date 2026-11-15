@@ -1,0 +1,47 @@
+name: Assemble VEXTER3 V2 on release branch
+on:
+  push:
+    branches: [website-v2-release-prep-2026-11-13]
+    paths: [VEXTER3_V2_French_Fixes_Small_Patch.zip]
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Expand approved archives and French patch
+        run: |
+          python3 - <<'PY'
+          import pathlib,zipfile,shutil
+          root=pathlib.Path.cwd().resolve()
+          archives=[
+            'VEXTER3_Website_V2_Integration_Source_Checkpoint.zip',
+            'VEXTER3_Events_Library_V2_GitHub_Backup.zip',
+            'VEXTER3_V2_French_Fixes_Small_Patch.zip',
+          ]
+          for name in archives:
+            with zipfile.ZipFile(name) as z:
+              if z.testzip(): raise SystemExit('Corrupt archive '+name)
+              for item in z.infolist():
+                p=pathlib.PurePosixPath(item.filename)
+                if p.is_absolute() or '..' in p.parts or item.filename.startswith('.github/'):
+                  raise SystemExit('Unsafe archive entry '+item.filename)
+                target=(root/item.filename).resolve()
+                if not target.is_relative_to(root): raise SystemExit('Unsafe destination')
+                if item.is_dir(): target.mkdir(parents=True,exist_ok=True);continue
+                target.parent.mkdir(parents=True,exist_ok=True)
+                with z.open(item) as src, open(target,'wb') as dst: shutil.copyfileobj(src,dst)
+            print('Expanded',name)
+          for required in ['index.html','events-library/index.html','squad-advisor/index.html','hero-library-v2/index.html','hero-library-v2/profiles/arthur.md','hero-library-v2/profiles-fr/arthur.md']:
+            if not (root/required).is_file(): raise SystemExit('Missing '+required)
+          PY
+      - name: Commit expanded site only to release branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html '*.html' assets/ events-library/ hero-library-v2/ squad-advisor/ hero-library/ 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m 'Assemble V2 website with approved French fixes'
+            git push origin HEAD:website-v2-release-prep-2026-11-13
+          fi
