@@ -1,0 +1,47 @@
+name: Install recovered V2 guide images
+on:
+  push:
+    branches: [fix-v2-missing-images-2026-11-17]
+    paths: [VEXTER3_V2_Original_Guide_Images_Recovery.zip]
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore original images and verify referenced files
+        run: |
+          python3 - <<'PY'
+          import zipfile,pathlib,re,shutil
+          root=pathlib.Path.cwd().resolve()
+          archive=root/'VEXTER3_V2_Original_Guide_Images_Recovery.zip'
+          with zipfile.ZipFile(archive) as z:
+            for item in z.infolist():
+              p=pathlib.PurePosixPath(item.filename)
+              if item.is_dir() or p.is_absolute() or '..' in p.parts or p.parts[0]!='assets' or p.suffix.lower() not in ('.jpg','.jpeg','.png','.webp'):
+                raise SystemExit('Unexpected archive entry: '+item.filename)
+              target=(root/item.filename).resolve()
+              if not target.is_relative_to(root): raise SystemExit('Unsafe path')
+              target.parent.mkdir(parents=True,exist_ok=True)
+              with z.open(item) as src,open(target,'wb') as dst:shutil.copyfileobj(src,dst)
+          missing=[]
+          for page in root.rglob('*.html'):
+            for ref in re.findall(r'<img[^>]*?src=["\']([^"\']+)["\']',page.read_text(encoding='utf-8'),re.I):
+              if ref.startswith(('data:','http:','https:','//')):continue
+              target=(page.parent/ref.split('?')[0]).resolve()
+              if not target.is_file():missing.append(str(page.relative_to(root))+': '+ref)
+          report='# V2 image restoration verification\n\n'+('No missing local HTML image references detected.\n' if not missing else '\n'.join('- '+x for x in missing)+'\n')
+          (root/'V2_IMAGE_RESTORATION_RESULT.md').write_text(report)
+          print(report)
+          if missing:raise SystemExit('Unresolved image references')
+          PY
+      - name: Commit restored images to repair branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/ V2_IMAGE_RESTORATION_RESULT.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Restore original V2 guide images'
+            git push origin HEAD:fix-v2-missing-images-2026-11-17
+          fi
