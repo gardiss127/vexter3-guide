@@ -1,0 +1,40 @@
+name: Inspect archived V2 image sources
+on:
+  push:
+    branches: [fix-v2-missing-images-2026-11-17]
+    paths: [.github/workflows/inspect-v2-image-archives.yml]
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inventory all image candidates
+        run: |
+          python3 - <<'PY'
+          import zipfile,pathlib
+          root=pathlib.Path('.')
+          lines=['# V2 image source inventory','']
+          for zpath in sorted(root.glob('*.zip')):
+            lines+=['## '+zpath.name]
+            with zipfile.ZipFile(zpath) as z:
+              for f in z.infolist():
+                if f.filename.lower().endswith(('.png','.jpg','.jpeg','.webp','.gif','.svg','.zip')):
+                  lines.append(f'- {f.filename} ({f.file_size} bytes)')
+            lines+=['']
+          lines+=['## Root image candidates']
+          for p in sorted(root.glob('IMG_*')):
+            lines.append(f'- {p.name} ({p.stat().st_size} bytes)')
+          (root/'V2_IMAGE_SOURCE_INVENTORY.md').write_text('\n'.join(lines)+'\n')
+          print('\n'.join(lines)[:10000])
+          PY
+      - name: Save inventory to repair branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add V2_IMAGE_SOURCE_INVENTORY.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Inventory image candidates in V2 archives'
+            git push origin HEAD:fix-v2-missing-images-2026-11-17
+          fi

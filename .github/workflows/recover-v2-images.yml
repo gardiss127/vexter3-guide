@@ -1,0 +1,59 @@
+name: Recover and audit V2 image assets
+on:
+  push:
+    branches: [fix-v2-missing-images-2026-11-17]
+    paths: [.github/workflows/recover-v2-images.yml]
+permissions:
+  contents: write
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recover original image assets and audit references
+        run: |
+          python3 - <<'PY'
+          import pathlib, zipfile, re, shutil, collections
+          root=pathlib.Path.cwd().resolve()
+          archives=['VEXTER3_Website_V2_Integration_Source_Checkpoint.zip','VEXTER3_Events_Library_V2_GitHub_Backup.zip','VEXTER3_V2_French_Fixes_Small_Patch.zip']
+          ext={'.jpg','.jpeg','.png','.gif','.webp','.svg','.avif'}
+          restored=[]
+          for archive in archives:
+            with zipfile.ZipFile(root/archive) as z:
+              for item in z.infolist():
+                p=pathlib.PurePosixPath(item.filename)
+                if item.is_dir() or p.is_absolute() or '..' in p.parts or p.suffix.lower() not in ext: continue
+                target=(root/item.filename).resolve()
+                if not target.is_relative_to(root) or target.exists(): continue
+                target.parent.mkdir(parents=True,exist_ok=True)
+                with z.open(item) as src, open(target,'wb') as dst: shutil.copyfileobj(src,dst)
+                restored.append(item.filename)
+          missing=collections.defaultdict(list)
+          checked=0
+          for page in root.rglob('*'):
+            if not page.is_file() or '.git' in page.parts or page.suffix.lower() not in {'.html','.css'}: continue
+            txt=page.read_text(encoding='utf-8',errors='replace')
+            refs=re.findall(r'(?:src|poster)\s*=\s*["\']([^"\']+)["\']|url\(\s*["\']?([^\)"\']+)',txt,re.I)
+            for pair in refs:
+              ref=(pair[0] or pair[1]).strip()
+              if not ref or ref.startswith(('http:','https:','data:','#','//')): continue
+              ref=ref.split('?')[0].split('#')[0]
+              if pathlib.PurePosixPath(ref).suffix.lower() not in ext: continue
+              checked+=1
+              target=(root/ref.lstrip('/') if ref.startswith('/') else page.parent/ref).resolve()
+              if not target.is_relative_to(root) or not target.is_file(): missing[str(page.relative_to(root))].append(ref)
+          report=['# V2 image recovery audit','',f'Original image files restored: {len(restored)}',f'Image references checked: {checked}',f'Unresolved references: {sum(map(len,missing.values()))}','','## Restored files']+['- '+x for x in restored]+['','## Unresolved by page']
+          for page,refs in sorted(missing.items()):
+            report+=['',f'### {page}']+['- '+r for r in sorted(set(refs))]
+          (root/'V2_IMAGE_RECOVERY_AUDIT.md').write_text('\n'.join(report)+'\n')
+          print('\n'.join(report[:20]))
+          PY
+      - name: Commit recovered assets and audit to repair branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m 'Restore original V2 image assets and document missing references'
+            git push origin HEAD:fix-v2-missing-images-2026-11-17
+          fi
